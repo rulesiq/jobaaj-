@@ -1,0 +1,3663 @@
+  
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/emojionearea/3.4.2/emojionearea.min.css" />
+<style>
+    video {
+        width:100%;
+        height:30rem;
+    }
+</style>
+
+  
+<!doctype html>
+<html lang="zxx">
+    <head>
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+        <!-- Links of CSS files -->
+        <link rel="stylesheet" href="https://community.jobaajlearnings.com/assets/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://community.jobaajlearnings.com/assets/css/animate.min.css">
+        <link rel="stylesheet" href="https://community.jobaajlearnings.com/assets/css/remixicon.css">
+        <link rel="stylesheet" href="https://community.jobaajlearnings.com/assets/css/flaticon.css">
+        <link rel="stylesheet" href="https://community.jobaajlearnings.com/assets/css/jquery-ui.min.css">
+        <link rel="stylesheet" href="https://community.jobaajlearnings.com/assets/css/magnific-popup.min.css">
+        <link rel="stylesheet" href="https://community.jobaajlearnings.com/assets/css/simplebar.min.css">
+        <link rel="stylesheet" href="https://community.jobaajlearnings.com/assets/css/metismenu.min.css">
+        <link rel="stylesheet" href="https://community.jobaajlearnings.com/assets/css/owl.carousel.min.css">
+        <link rel="stylesheet" href="https://community.jobaajlearnings.com/assets/css/owl.theme.default.min.css">
+        <link rel="stylesheet" href="https://community.jobaajlearnings.com/assets/css/style.css">
+		<link rel="stylesheet" href="https://community.jobaajlearnings.com/assets/css/responsive.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+        
+         <meta name="robots" content="index,follow">
+    	 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+            	
+        	
+		<title>Community - Jobaaj Learnings | Upskill every second - Login or Signup </title>
+		
+		        
+            	<title></title>
+            	<meta name="description" content="1 lakh+ active members | Upskilling individuals at every step. Building a learning community, for Accessing and Sharing Knowledge and Insights.">
+            	<meta name="keywords" content="Community Jobaajlearnings,Jobaaj,Jobaajelarnings">
+            	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+            
+            	
+            	            	 <!-- OG Type -->
+                <meta property="og:title" content="Community - Jobaaj Learnings | Upskill every second " />
+                <meta property="og:description" content="1 lakh+ active members | Upskilling individuals at every step. Building a learning community, for Accessing and Sharing Knowledge and Insights." />
+                <meta property="og:image" content="https://community.jobaajlearnings.com/assets/images/community.jpeg" />
+                <meta property="og:url" content="https://community.jobaajlearnings.com/working" />
+                <meta property="og:type" content="Article" />
+                <meta name="description" content="">
+                <meta name="author" content="Jobaaj Learnings Community">
+                <link rel="canonical" href="https://community.jobaajlearnings.com/working" />
+                
+                
+		
+  <link rel="apple-touch-icon" sizes="180x180" href="https://cdn.nishtyainfotech.com/learnings/assets/favicon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://cdn.nishtyainfotech.com/learnings/assets/favicon.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://cdn.nishtyainfotech.com/learnings/assets/favicon.png">
+  <link rel="manifest" href="https://cdn.nishtyainfotech.com/learnings/assets/favicon/site.webmanifest">
+  <link rel="mask-icon" href="https://cdn.nishtyainfotech.com/learnings/assets/favicon/safari-pinned-tab.svg" color="#6366f1">
+  <link rel="shortcut icon" href="https://cdn.nishtyainfotech.com/learnings/assets/favicon.png">
+    </head>
+
+    <body>
+       
+<style>
+.post-like {
+    cursor:pointer;
+}
+.post-like i {
+    font-size:1.2rem !important;
+}
+
+    .news-feed-area .news-feed-post .post-body .post-comment-list .comment-list .comment-image img {
+    max-width: 2.5rem;
+}
+.comment-info a{
+    font-size:.8rem;
+}
+
+.nav-item label{
+        margin: 1rem 0px;
+        display:flex;
+}
+.nav-item label input {
+    margin-right:10px;
+}
+
+.nav-item label .icon {
+    margin-right:4px;
+}
+.sidemenu-nav .nav-item {
+    margin-bottom: 19px;
+}
+
+.news-feed-area .news-feed-form form .button-group button {
+    background-color: transparent;
+    border: none;
+    font-size: 13px !important;
+}
+
+.news-feed-area .news-feed-form form .button-group  i {
+    color: #1CCD16;
+    font-size: 17px !important;
+}
+
+
+.news-feed-area .news-feed-post .post-body .post-comment-list .comment-list .comment-info .comment-react {
+    padding: 0;
+    margin-bottom: 0;
+    margin-top: 0px;
+}
+    .news-feed-area .news-feed-post .post-body .post-comment-list .comment-list .comment-info {
+        padding-left: 48px;
+    }
+
+
+
+.main-content-wrapper .navbar-area {
+    z-index: 999999990;
+}
+.react-now img{
+    width:1rem;
+}
+
+.news-feed-area .news-feed-post .post-header .info {
+    width: 612px;
+}
+
+.swiper-button-next, .swiper-button-prev
+{
+    background: #000000a3;
+    border-radius: 5rem;
+    width: 1.7rem !important;
+    height: 1.7rem !important;
+}
+
+.swiper-button-next:after, .swiper-button-prev:after {
+    font-family: swiper-icons;
+    
+    color: #fff;
+    width: 0.6rem;
+    font-size: .9rem !important;
+    
+}
+.swiper-button-next:after {
+     width: 0.4rem;
+}
+.main-content-wrapper .navbar-area .main-navbar .navbar .others-options .option-item .notifications-nav-item .notifications-btn span {
+    position: absolute;
+    top: -2px;
+    right: -5px;
+    display: block;
+    width: 9px;
+    height: 9px;
+
+}
+
+
+.news-feed-area .news-feed-post .post-header .info .small-text {
+    display: block;
+    font-size: 11px;
+    font-weight: 600;
+    color: var(--paragraph-color);
+    margin-top: 1px;
+}
+
+    .post-cat {
+            background: #666666;
+    color: #fff;
+    margin-top:.2rem;
+    font-size: .7rem;
+    border-radius: 0.5rem;
+    padding: 0rem 0.2rem;
+    }
+    .post-elements {
+        display:flex;padding-right:20px;justify-content: space-evenly;
+        
+    }
+     .post-elements i{
+                 width: 1.4rem;
+    margin: 5px 10px;
+    height: 1.3rem;
+    font-size: 1.2rem;
+}
+
+.post-elements .fa-image {
+    color: #1CCD16;
+}
+
+
+.post-elements .fa-file-image {
+    color: #FF3E3E;
+}
+
+
+.post-elements .fa-award {
+    color: #3644D9;
+}
+
+.sidemenu-area .sidemenu-body .sidemenu-nav .nav-item .nav-link .icon {
+    -webkit-transition: var(--transition);
+    transition: var(--transition);
+    display: inline-block;
+    height: 14px;
+    width: 21px;
+    line-height: 10px;
+    background-color: #F4F7FC;
+    color: var(--black-color);
+    font-size: 18px;
+    text-align: center;
+    border-radius: 8px;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+
+.sidemenu-area {
+    position: static;
+}
+
+
+.loader {
+  border: 2px solid #777;
+  border-radius: 50%;
+  border-top: 2px solid #444;
+  width: 50px;
+  height: 50px;
+  -webkit-animation: spin 1s linear infinite; /* Safari */
+  animation: spin 1s linear infinite;
+}
+
+/* Safari */
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+.editC,.delC {
+   font-size:.7rem;
+   margin-left:.4rem;
+   cursor:pointer;
+}
+
+.fa-ellipsis:hover{
+    background-color:#f1f2f5;
+}
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.news-feed-area .news-feed-post .post-body .post-comment-list .comment-list .comment-info .comment-react {
+    padding: 0;
+    margin-bottom: 0;
+    margin-top: 6px;
+}
+
+
+.news-feed-area .news-feed-post .post-body .post-comment-list .comment-list .comment-info span {
+    color: var(--paragraph-color);
+    display: inline-block;
+    margin-top: -7px;
+    margin-bottom: 0px;
+    font-size: 10px;
+    font-weight: 600;
+}
+
+
+#showPost,#showCategory,#showUpdate,#showLogin,#showShare {
+    z-index:1111111111;
+background-color:#ffffffd6;
+/*-webkit-filter: blur(4px);*/
+/*-moz-filter: blur(4px);*/
+/*-o-filter: blur(4px);*/
+/*-ms-filter: blur(4px);*/
+/*filter: blur(4px);*/
+/*filter: url("https://gist.githubusercontent.com/amitabhaghosh197/b7865b409e835b5a43b5/raw/1a255b551091924971e7dee8935fd38a7fdf7311/blur".svg#blur);*/
+/*filter:progid:DXImageTransform.Microsoft.Blur(PixelRadius='4');*/
+}
+.news-feed-area .news-feed-post .post-body .post-footer .form-group {
+    position: relative;
+    padding-left:0px;
+}
+
+.news-feed-area .news-feed-post .post-body p {
+    margin-bottom: 20px;
+    color: #424242;
+}
+
+.modal-dialog {
+    top:16%;
+}
+
+#showDialog .modal-dialog {
+    top:8%;
+}
+.modal-title{
+    font-size:1.2rem;
+    font-weight:500;
+}
+.post-name {
+    display:block;
+    color:#222;
+    font-weight:600;
+}
+
+.main-content-wrapper .navbar-area .main-navbar .navbar{
+width:95%;    
+}
+.news-feed-area .news-feed-form form .form-group .form-control {
+    background-color: #F4F7FC;
+    border: 1px solid #F4F7FC;
+    padding: 10px 15px !important;
+    font-size: 15px !important;
+}
+textarea{
+    resize: none;
+}
+.rounded-circle{
+    height:50px;
+        width: 50px;
+    max-width:50px !important;
+}
+
+.nav-link-active .icon {
+    color:#fff !important;
+}
+.nav-link-active .menu-title {
+    color:#3644d9;
+}
+
+.main-content-wrapper {
+    -webkit-transition: var(--transition);
+    transition: var(--transition);
+    overflow: hidden;
+    background-color:#f3f2ef;
+    min-height: 100vh;
+    padding-top: 100px;
+    padding-left: 175px;
+    padding-right: 135px;
+    padding-bottom: 50px;
+}
+
+.main-content-wrapper .navbar-area .main-navbar .navbar .search-box {
+    position: relative;
+    width: 430px;
+    margin-left: 8.5rem !important;
+}
+}
+
+.post-editor{
+        font-size: 1.2rem;
+            height: 8rem;
+            
+    padding: 0px;
+    border: none;
+}
+.img-box{
+    display:none;
+}
+.img-upload{
+    width: 100%;
+    height: 13rem;
+    border-radius:1rem;
+       margin: 13px 0px;
+    top: 17%;
+    align-items: center;
+    background: #f4f4f480;
+    flex-direction: column;
+    justify-content: center;
+        display: flex;
+    
+}
+
+.img-selected{
+    width: 100%;
+    height: auto;
+    border-radius:.3rem;
+    top: 17%;
+    align-items: center;
+    background: #f4f4f480;
+    flex-direction: column;
+    justify-content: center;
+    display: flex;
+    
+}
+.post-loader{
+      width: 100%;
+    height: 21rem;
+    margin: 0 auto;
+    top: 17%;
+    display: none;
+    align-items: center;
+    background: #f4f4f480;
+    flex-direction: column;
+    position: absolute;
+    justify-content: center;
+}
+    .post-image {
+        text-align: center;
+    }
+    .news-feed-area .news-feed-post .post-header .image a img {
+    max-width: 53px;
+}
+
+.simplebar-content{
+        padding: 40px 15px !important;
+}
+.react-list li a img{
+    
+    width:1.4rem;
+    
+}
+
+#img-preview{
+    margin: 10px 0px;
+    display: flex;
+    flex-wrap:wrap;
+        height: 15rem;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+.news-feed-area .news-feed-post .post-body .post-footer .form-group .form-control {
+    background-color: #F4F7FC;
+    border: 0px solid #F4F7FC;
+    padding: 9px 17px;
+    color: var(--paragraph-color);
+    height: 40px;
+    font-size: 13px;
+}
+
+.news-feed-area .news-feed-post .post-body .post-footer .footer-image a img {
+    max-width: 45px;
+}
+
+
+
+:focus {
+  box-shadow: none !important;
+}
+
+*[data-focus] {
+  box-shadow: none !important;
+}
+
+
+
+
+
+.main-content-wrapper .navbar-area .main-navbar .navbar .search-box .input-search {
+    height: 41px;
+    border-radius: 8px;
+    background-color: #969696 !important;
+}
+
+.modal-body {
+    max-height: calc(100vh - 210px);
+    overflow-y: auto;
+}
+
+.sidemenu-area .sidemenu-body {
+    max-height: calc(100% - 40px);
+}
+
+.sidemenu-area .sidemenu-body {
+    max-height: calc(100% -100px);
+}
+
+
+ .main-content-wrapper .navbar-area .main-navbar{
+     padding:10px;
+ }
+     .main-content-wrapper .navbar-area .main-navbar .navbar .search-box .input-search {
+    height: 41px;
+
+}
+.main-content-wrapper .main-responsive-nav .main-responsive-menu {
+    position: absolute;
+    right: 50px;
+    top: 12px;
+}
+.sidemenu-area .sidemenu-body .sidemenu-nav .nav-item {
+    margin-bottom: 19px;
+}
+
+
+  .sidemenu-body .sidemenu-nav .nav-item:hover .nav-link .icon{
+         background-color:transparent !important;
+     }
+     
+.sidemenu-area .sidemenu-body {
+    max-height: 350px !important;
+} 
+.main-content-wrapper .navbar-area .main-navbar .navbar .others-options .option-item .profile-nav-item .dropdown-bs-toggle::before {
+    display:none !important;
+}
+
+#arrowBtn{
+    position: fixed;
+    right: 351px;
+        color: #fff;
+    background: #3644d9;
+    width: 26px;
+    top:50%;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    padding: 10px;
+}
+.right-size2{
+    right: 1px !important;
+}
+.sidemenu-area .sidemenu-body{
+    max-height: calc(100% - 0px);
+}
+
+.main-content-wrapper .main-responsive-nav .main-responsive-menu .responsive-burger-menu span {
+    background:#222;
+}
+.right-sidebar-area {
+    position: fixed;
+    right: 0px;
+    top: 1rem;
+    height: 100%;
+    width: 350px;
+        max-height: calc(100% - 0px);
+    
+}
+
+
+.right-size{
+    right: -350px !important;
+}
+  
+
+.name {
+    color:#222 !important;
+}
+.main-navbar{
+    background-color:#fff;
+}
+.navbar-area .main-navbar .navbar .search-box button {
+    position: absolute;
+    right: 0;
+    top: -2px !important;
+}
+.main-content-wrapper .main-responsive-nav .main-responsive-menu {
+    position: absolute;
+    right: 15px;
+    top: 12px;
+}
+
+.loginPopup{
+    max-width: 30%;
+    top:20%;
+}
+
+.shareDialog{
+     max-width: 386px;
+     top:20%;
+}
+.fw-bold{
+   font-weight:600!important;
+}
+
+.main-content-wrapper .navbar-area .main-navbar .navbar .others-options .option-item .profile-nav-item .menu-profile img {
+    width: 35px;
+    height: 35px;
+    display: inline-block;
+    margin-right: 8px;
+}
+
+
+
+.input-search {
+        font-size: .9rem !important;
+    background-color: #555555 !important;
+padding: 2px 6px 5px 18px !important;
+}
+.main-content-wrapper .navbar-area .main-navbar .navbar .others-options .option-item .notifications-nav-item .notifications-btn i {
+    color: #7d7d7d;
+    font-size: 25px;
+}
+.sidemenu-area {
+    top:3rem;
+}
+
+.dot-menu{
+    display:none;
+}
+.search-mobile{
+     display:none;
+}
+
+ .search-mobile  ::placeholder {
+  color: #fff;
+}
+
+  .search-mobile .input-search {
+      display: block;
+    width: 100%;
+   
+    border: none;
+    border-radius: 50px;
+    background-color: #2E3AB8;
+    -webkit-transition: var(--transition);
+    transition: var(--transition);
+    color: var(--white-color);
+    font-size: var(--font-size);
+    font-weight: 400;
+    padding: 0 0 0 16px;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    outline: 0;
+font-size: .8rem;
+    height: 35px;
+    border-radius: 8px;
+    background-color: #969696 !important;
+}
+.search-mobile button {
+    position: absolute;
+   right: 43px;
+    top: 2.5px;
+    height: 50px;
+    background-color: transparent;
+    border: none;
+    color: var(--white-color);
+    border-radius: 5px;
+    font-size: 18px;
+    padding: 0 20px;
+}
+
+.main-content-wrapper .main-responsive-nav {
+    display: block;
+}
+
+.news-feed-area .news-feed-post .post-body .post-comment-list .comment-list .comment-info {
+    padding-left: 61px;
+}
+
+.side_home {
+    display:block;
+}
+
+.postDialog {
+    max-width:50% !important;
+}
+
+@media only screen and (max-width: 767px) {
+.main-content-wrapper {
+    padding-top: 0px;
+    padding-left:5px;
+     padding-right:5px;
+}
+
+
+.postDialog {
+    max-width:100% !important;
+}
+
+
+.side_home {
+    display:none;
+}
+
+.news-feed-area .news-feed-post .post-body .post-meta-wrap {
+    margin-top: 25px;
+    padding: 6px ;
+    border-top: 1px solid #eeeeee;
+    border-bottom: 1px solid #eeeeee;
+    margin-bottom: 0;
+}
+
+
+
+.news-feed-area .news-feed-post .post-body .post-meta-wrap .post-react {
+    width: 81px !important;
+}
+
+
+.sidemenu-area{
+    display:block !important;
+}
+.sidemenu-area {
+    position: fixed;
+}
+
+
+.loginPopup{
+    max-width: 100%;top:20%;
+}
+
+.shareDialog{
+     max-width: 370px;
+     top:8%;
+}
+
+.main-content-wrapper .navbar-area .main-navbar{
+    display:none;
+}
+.news-feed-area .news-feed-form form .button-group.d-flex {
+   display:flex !important; 
+}
+
+.sidemenu-area{
+    display:none;
+}
+.search-mobile{
+     display:block;
+}
+
+.main-content-wrapper .main-responsive-nav {
+}
+.news-feed-area .news-feed-form form .button-group li button {
+    font-size: 12px;
+    padding-left: 25px !important;
+}
+
+.notifications-body .simplebar-content {
+    padding-top:1rem !important;
+}
+.profile-notify {
+    height: 40px !important;
+    width: 40px !important;
+    max-width:40px !important;
+}
+
+
+</style>
+    
+<style>
+.single-comment{
+    display:flex;
+        justify-content: space-between;
+}
+
+.news-feed-area .news-feed-post .post-body .post-comment-list .comment-list .comment-info span
+{
+        font-size: 9px;
+}
+.single-comment .p1{
+   flex:1;
+   padding-left:.1rem;
+   margin-right:1rem;
+}
+
+
+.single-comment .p2{
+        font-size: .7rem !important;
+    font-weight: 600;
+        max-width: 2rem;
+    line-height: 23px;
+    display:none;
+    cursor:pointer;
+}
+.pimg {
+      width:100%;
+                height:100%;
+                object-fit:cover;
+}
+.swiper-button-next:after, .swiper-button-prev:after {
+    font-family: swiper-icons;
+    font-size: 27px;
+}
+.post-footer .form-group input {
+    padding-right:3.5rem !important;
+}
+.post-comment{
+    font-weight:600;
+    font-size:.8rem;
+}
+
+.news-feed-area .news-feed-post .post-header .dropdown .dropdown-menu.show
+{
+    z-index:111111111111;
+}
+
+.myPostUrl{
+        height: 1rem;
+        font-size:.7rem;
+    line-height: 1rem;
+    color: #222;
+}
+.btn-icon{
+       height: 2.6rem;
+    width: 2.6rem;
+    margin-bottom: 0.5rem;
+    color: #fff;
+        padding: 6px;
+}
+[contenteditable] {
+}
+
+
+.btn-icon i{
+     font-size: 1.4rem;
+    line-height: 1.7rem;
+}
+.btn-icon:hover i{
+     color:#fff;
+}
+
+  
+  .news-feed-area .news-feed-form form .form-group .form-control {
+    background-color: #F4F7FC;
+    border: 1px solid #F4F7FC;
+    padding: 13px 18px;
+    color: var(--paragraph-color);
+    font-size: 13px;
+}
+
+.nopost{
+   
+}
+
+ .simplebar-content { 
+     padding: 15px 15px !important;
+    }
+    
+  .sidemenu-area .sidemenu-body .sidemenu-nav .nav-item .nav-link .icon:before {
+         background-color: #fff !important;
+    }
+    .cat_post{
+            color: #3F51B5;
+    font-weight: 600;
+    font-size: .8rem;
+    }
+    .form-outline input {
+        border:none;
+        border-radius:0px !important;
+        padding: 0px;
+        padding-bottom: 0.3rem;
+        border-bottom:1px solid #888;
+    }
+    .list-group-item {
+    position: relative;
+    display: block;
+    padding: 0.5rem 0rem !important;
+    margin-bottom: 1.3rem !important;
+    color: #212529;
+    border:none;
+    border-radius: 0px;
+    text-decoration: none;
+    background-color: #fff;
+    border-bottom: 1px solid rgba(0,0,0,.125) !important;
+}
+.score {
+    font-weight: 600;
+    float: right;
+    display:none;
+}
+
+.pending{
+        color: #fff;
+    font-size: .7rem;
+        font-weight: 500;
+    margin-left: 1rem;
+    background: #3f51b5;
+    padding: 0.1rem 0.7rem;
+    border-radius: 1rem;
+    
+}
+
+    .panel-title{
+        margin-top:20px !important;
+            margin-bottom: 20px !important;
+    font-size: 1.5rem;
+    }
+    .post-body a {
+        color:#3644d9;
+    }
+        .img-choosen {
+            display:none;
+                margin-bottom: 2.4rem;
+        }
+        .closeImg {
+            font-size: 1.5rem;
+            float: right;
+            position: relative;
+            top: 10px;
+            background: #fff;
+            border-radius: 1rem;
+        }
+        
+        .radio input[type='radio']{
+                margin-right: 0.3rem;
+        }
+        
+        .panel-body {
+            margin-left:.8rem;
+        }
+        .post-strip {
+            margin-bottom:10px;
+            width: 100%;border:1px solid #555;justify-content: space-between;padding:.3rem 1rem;border-radius:.4rem;height:2.6rem;display:flex
+        }
+        
+        .modal-footer{
+            border: none;
+        }
+    </style>
+    
+ <style>
+
+/*Emoji Styles*/
+
+.emojionearea, .emojionearea.form-control{
+    border:none;
+}
+.emojionearea-editor{
+    font-size: 1.2rem !important;
+        padding: 6px 20px 6px 2px !important;
+}
+
+.emojionearea-editor:focus {
+    box-shadow: none !important;
+}
+
+.emojionearea-editor:focus {
+    border: 0;
+     outline: none !important;
+    -moz-box-shadow: none  !important;
+    -webkit-box-shadow: none  !important;
+    box-shadow: none  !important;
+}
+
+.emojionearea.form-control.post-editor{
+    -webkit-box-shadow:none;
+    box-shadow:none;
+    position:static !important;
+    -moz-box-shadow:none;
+}
+   .emojionearea.focused {
+ border: 0;
+     outline: none !important;
+    -moz-box-shadow: none  !important;
+    -webkit-box-shadow: none  !important;
+    box-shadow: none  !important;
+
+}
+    .swiper {
+      width: 100%;
+      height: 100%;
+       /*max-height:400px;*/
+    }
+
+    .swiper-slide {
+      text-align: center;
+      font-size: 18px;
+      background: #fff;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height:auto;
+      max-height:350px;
+    }
+
+    .swiper-slide img {
+      display: block;
+      width: 100%;
+       max-height:350px;
+      height: 100%;
+      object-fit: contain;
+    }
+</style>
+
+    <style>
+
+/*Emoji Styles*/
+
+.emojionearea, .emojionearea.form-control{
+    border:none;
+}
+.emojionearea-editor{
+    font-size: 1.2rem !important;
+        padding: 6px 20px 6px 2px !important;
+}
+
+.emojionearea-editor:focus {
+    box-shadow: none !important;
+}
+
+.emojionearea-editor:focus {
+    border: 0;
+     outline: none !important;
+    -moz-box-shadow: none  !important;
+    -webkit-box-shadow: none  !important;
+    box-shadow: none  !important;
+}
+
+.emojionearea.form-control.post-editor{
+    -webkit-box-shadow:none;
+    box-shadow:none;
+    position:static !important;
+    -moz-box-shadow:none;
+}
+   .emojionearea.focused {
+ border: 0;
+     outline: none !important;
+    -moz-box-shadow: none  !important;
+    -webkit-box-shadow: none  !important;
+    box-shadow: none  !important;
+
+}
+    .swiper {
+      width: 100%;
+      height: 100%;
+       max-height:400px;
+    }
+
+    .swiper-slide {
+      text-align: center;
+      font-size: 18px;
+      background: #fff;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height:auto;
+      max-height:350px;
+    }
+
+    .swiper-slide img {
+      display: block;
+      width: 100%;
+       max-height:350px;
+      height: 100%;
+      object-fit: contain;
+    }
+</style>
+ 
+
+     <div class="search-box search-mobile" style="    margin: 9px 50px 9px -8px;">
+                                <form style="display:flex" onsubmit="return false" method="">
+                                 <img onclick="location.href='/'" src="https://cdn.nishtyainfotech.com/learnings/assets/img/d-logo.png" style="width:32%;cursor:pointer" alt="image">
+
+                                    <input   type="text"   id="search_input" class="input-search" placeholder="Search Topic...">
+                                    <button type="button"  onclick="searchTopic()"><i class="ri-search-line"></i></button>
+                                </form>
+                            </div>
+       
+       
+        <!-- Start Main Content Wrapper Area -->
+<div class="main-content-wrapper d-flex flex-column">
+            
+        
+
+ 
+ <!-- Start Navbar Area -->
+ 
+ 
+            <div class="navbar-area">
+                <div class="main-responsive-nav">
+                    <div class="main-responsive-menu">
+                        <div class="responsive-burger-menu d-lg-none d-block">
+                            <span class="top-bar"></span>
+                            <span class="middle-bar"></span>
+                            <span class="bottom-bar"></span>
+                        </div>
+                    </div>
+                </div>
+
+
+ <div class="main-responsive-nav">
+                    <div onclick="openNav();" class="main-responsive-menu">
+                        <div class="responsive-burger-menu d-lg-none d-block">
+                            <span class="top-bar"></span>
+                            <span class="middle-bar"></span>
+                            <span class="bottom-bar"></span>
+                        </div>
+                    </div>
+                </div>
+                
+                
+
+                <div class="main-navbar">
+                    <nav class="navbar navbar-expand-lg navbar-light">
+                        
+                        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+                            <div class="search-box m-auto">
+                                <form style="display:flex" onsubmit="return false" method="">
+                                 <img  onclick="location.href='/'" src="https://cdn.nishtyainfotech.com/learnings/assets/img/d-logo.png" style="width:32%;cursor:pointer" alt="image">
+                                    <input   type="text"   id="search_input2" class="input-search" placeholder="Search Topic...">
+                                    <button type="button"  onclick="searchTopic()"><i class="ri-search-line"></i></button>
+                                </form>
+                            </div>
+                   
+                   
+                            <div class="others-options d-flex align-items-center">
+                                
+                                
+                                
+                                <div class="option-item">
+                                    <div class="dropdown notifications-nav-item">
+                                        <a href="#" class="dropdown-bs-toggle" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                            <div class="notifications-btn">
+                                                <i class="flaticon-bell"></i>
+                                                <span>&nbsp;</span>
+                                            </div>
+                                        </a>
+            
+                                        <div class="dropdown-menu">
+                                            <div class="notifications-header d-flex justify-content-between align-items-center">
+                                                <h3>Notifications</h3>
+                                            </div>
+                                            <div class="notifications-body" style="margin-top: -10px;" data-simplebar>
+                                              
+                                                                                              <div class="item d-flex justify-content-between align-items-center" style="cursor:pointer;" onclick="location.href='https://community.jobaajlearnings.com//post/3'" >
+                                                    <div class="figure">
+                                                        <a href="javascript:;"><img src="https://jobaajlearnings.com//assets/images/avatar.png" onerror="this.onerror=null;this.src='http://community.jobaajlearnings.com/assets/images/avatar.png'" class="rounded-circle profile-notify" alt="image"></a>
+                                                    </div>
+                                                    <div class="text">
+                                                        <h4><a href="javascript:;">Jetin</a></h4>
+                                                        <span>Liked your Post!</span>
+                                                        <span class="main-color">1 week ago</span>
+                                                    </div>
+                                                </div>
+                                               
+                                                                                               <div class="item d-flex justify-content-between align-items-center" style="cursor:pointer;" onclick="location.href='https://community.jobaajlearnings.com//post/3'" >
+                                                    <div class="figure">
+                                                        <a href="javascript:;"><img src="https://jobaajlearnings.com/data/pro/https://lh3.googleusercontent.com/a/AEdFTp4y7EN-QqBUJemktqaZjgD7IFtMy5Qi3WEX56Nh=s96-c" onerror="this.onerror=null;this.src='http://community.jobaajlearnings.com/assets/images/avatar.png'" class="rounded-circle profile-notify" alt="image"></a>
+                                                    </div>
+                                                    <div class="text">
+                                                        <h4><a href="javascript:;">Prateek</a></h4>
+                                                        <span>Liked your Post!</span>
+                                                        <span class="main-color">1 week ago</span>
+                                                    </div>
+                                                </div>
+                                               
+                                                                                               <div class="item d-flex justify-content-between align-items-center" style="cursor:pointer;" onclick="location.href='https://community.jobaajlearnings.com//post/3'" >
+                                                    <div class="figure">
+                                                        <a href="javascript:;"><img src="https://jobaajlearnings.com/data/pro/https://lh3.googleusercontent.com/a/AEdFTp4y7EN-QqBUJemktqaZjgD7IFtMy5Qi3WEX56Nh=s96-c" onerror="this.onerror=null;this.src='http://community.jobaajlearnings.com/assets/images/avatar.png'" class="rounded-circle profile-notify" alt="image"></a>
+                                                    </div>
+                                                    <div class="text">
+                                                        <h4><a href="javascript:;">Prateek</a></h4>
+                                                        <span>Liked your Post!</span>
+                                                        <span class="main-color">1 week ago</span>
+                                                    </div>
+                                                </div>
+                                               
+                                                                                               <div class="item d-flex justify-content-between align-items-center" style="cursor:pointer;" onclick="location.href='https://community.jobaajlearnings.com//post/159'" >
+                                                    <div class="figure">
+                                                        <a href="javascript:;"><img src="https://jobaajlearnings.com/data/pro/1686902203pro-52417.png" onerror="this.onerror=null;this.src='http://community.jobaajlearnings.com/assets/images/avatar.png'" class="rounded-circle profile-notify" alt="image"></a>
+                                                    </div>
+                                                    <div class="text">
+                                                        <h4><a href="javascript:;">Vikrant</a></h4>
+                                                        <span>Liked your Post!</span>
+                                                        <span class="main-color">2 weeks ago</span>
+                                                    </div>
+                                                </div>
+                                               
+                                                                                               <div class="item d-flex justify-content-between align-items-center" style="cursor:pointer;" onclick="location.href='https://community.jobaajlearnings.com//post/62'" >
+                                                    <div class="figure">
+                                                        <a href="javascript:;"><img src="https://jobaajlearnings.com//assets/images/avatar.png" onerror="this.onerror=null;this.src='http://community.jobaajlearnings.com/assets/images/avatar.png'" class="rounded-circle profile-notify" alt="image"></a>
+                                                    </div>
+                                                    <div class="text">
+                                                        <h4><a href="javascript:;">Raghav Tayal</a></h4>
+                                                        <span>Liked your Post!</span>
+                                                        <span class="main-color">3 weeks ago</span>
+                                                    </div>
+                                                </div>
+                                               
+                                                                                               <div class="item d-flex justify-content-between align-items-center" style="cursor:pointer;" onclick="location.href='https://community.jobaajlearnings.com//post/3'" >
+                                                    <div class="figure">
+                                                        <a href="javascript:;"><img src="https://jobaajlearnings.com//assets/images/avatar.png" onerror="this.onerror=null;this.src='http://community.jobaajlearnings.com/assets/images/avatar.png'" class="rounded-circle profile-notify" alt="image"></a>
+                                                    </div>
+                                                    <div class="text">
+                                                        <h4><a href="javascript:;">Pandya Yogi Umeshbhai</a></h4>
+                                                        <span>Liked your Post!</span>
+                                                        <span class="main-color">1 month ago</span>
+                                                    </div>
+                                                </div>
+                                               
+                                                                                               <div class="item d-flex justify-content-between align-items-center" style="cursor:pointer;" onclick="location.href='https://community.jobaajlearnings.com//post/3'" >
+                                                    <div class="figure">
+                                                        <a href="javascript:;"><img src="https://jobaajlearnings.com//assets/images/avatar.png" onerror="this.onerror=null;this.src='http://community.jobaajlearnings.com/assets/images/avatar.png'" class="rounded-circle profile-notify" alt="image"></a>
+                                                    </div>
+                                                    <div class="text">
+                                                        <h4><a href="javascript:;">Ameer hamza </a></h4>
+                                                        <span>Liked your Post!</span>
+                                                        <span class="main-color">1 month ago</span>
+                                                    </div>
+                                                </div>
+                                               
+                                                                                               <div class="item d-flex justify-content-between align-items-center" style="cursor:pointer;" onclick="location.href='https://community.jobaajlearnings.com//post/3'" >
+                                                    <div class="figure">
+                                                        <a href="javascript:;"><img src="https://jobaajlearnings.com//assets/images/avatar.png" onerror="this.onerror=null;this.src='http://community.jobaajlearnings.com/assets/images/avatar.png'" class="rounded-circle profile-notify" alt="image"></a>
+                                                    </div>
+                                                    <div class="text">
+                                                        <h4><a href="javascript:;">Apoorva kailashia</a></h4>
+                                                        <span>Liked your Post!</span>
+                                                        <span class="main-color">1 month ago</span>
+                                                    </div>
+                                                </div>
+                                               
+                                                                                               <div class="item d-flex justify-content-between align-items-center" style="cursor:pointer;" onclick="location.href='https://community.jobaajlearnings.com//post/3'" >
+                                                    <div class="figure">
+                                                        <a href="javascript:;"><img src="https://jobaajlearnings.com/data/pro/1677163347pro-3351.png" onerror="this.onerror=null;this.src='http://community.jobaajlearnings.com/assets/images/avatar.png'" class="rounded-circle profile-notify" alt="image"></a>
+                                                    </div>
+                                                    <div class="text">
+                                                        <h4><a href="javascript:;">Dheeraj  Mukati</a></h4>
+                                                        <span>Liked your Post!</span>
+                                                        <span class="main-color">1 month ago</span>
+                                                    </div>
+                                                </div>
+                                               
+                                                                                               <div class="item d-flex justify-content-between align-items-center" style="cursor:pointer;" onclick="location.href='https://community.jobaajlearnings.com//post/62'" >
+                                                    <div class="figure">
+                                                        <a href="javascript:;"><img src="https://jobaajlearnings.com//assets/images/avatar.png" onerror="this.onerror=null;this.src='http://community.jobaajlearnings.com/assets/images/avatar.png'" class="rounded-circle profile-notify" alt="image"></a>
+                                                    </div>
+                                                    <div class="text">
+                                                        <h4><a href="javascript:;">Jatin Kumar</a></h4>
+                                                        <span>Liked your Post!</span>
+                                                        <span class="main-color">1 month ago</span>
+                                                    </div>
+                                                </div>
+                                               
+                                                                                               <div class="item d-flex justify-content-between align-items-center" style="cursor:pointer;" onclick="location.href='https://community.jobaajlearnings.com//post/3'" >
+                                                    <div class="figure">
+                                                        <a href="javascript:;"><img src="https://jobaajlearnings.com/data/pro/https://lh3.googleusercontent.com/a/AEdFTp6LrGx2GHuqu4Z1XwPlNmNLfwFr_fHhokhrBUxyp6o=s96-c" onerror="this.onerror=null;this.src='http://community.jobaajlearnings.com/assets/images/avatar.png'" class="rounded-circle profile-notify" alt="image"></a>
+                                                    </div>
+                                                    <div class="text">
+                                                        <h4><a href="javascript:;">Alka Jessica Ekka</a></h4>
+                                                        <span>Liked your Post!</span>
+                                                        <span class="main-color">1 month ago</span>
+                                                    </div>
+                                                </div>
+                                               
+                                                                                               <div class="item d-flex justify-content-between align-items-center" style="cursor:pointer;" onclick="location.href='https://community.jobaajlearnings.com//post/3'" >
+                                                    <div class="figure">
+                                                        <a href="javascript:;"><img src="https://jobaajlearnings.com//assets/images/avatar.png" onerror="this.onerror=null;this.src='http://community.jobaajlearnings.com/assets/images/avatar.png'" class="rounded-circle profile-notify" alt="image"></a>
+                                                    </div>
+                                                    <div class="text">
+                                                        <h4><a href="javascript:;">Kuldeep Sharma</a></h4>
+                                                        <span>Liked your Post!</span>
+                                                        <span class="main-color">2 months ago</span>
+                                                    </div>
+                                                </div>
+                                               
+                                                                                               <div class="item d-flex justify-content-between align-items-center" style="cursor:pointer;" onclick="location.href='https://community.jobaajlearnings.com//post/3'" >
+                                                    <div class="figure">
+                                                        <a href="javascript:;"><img src="https://jobaajlearnings.com/data/pro/https://lh3.googleusercontent.com/a/AGNmyxZ1JPV7BVswOO5uMwTcWb7VMPyEZS0AoutYoyqm=s96-c" onerror="this.onerror=null;this.src='http://community.jobaajlearnings.com/assets/images/avatar.png'" class="rounded-circle profile-notify" alt="image"></a>
+                                                    </div>
+                                                    <div class="text">
+                                                        <h4><a href="javascript:;">Subhadra Nayak</a></h4>
+                                                        <span>Liked your Post!</span>
+                                                        <span class="main-color">2 months ago</span>
+                                                    </div>
+                                                </div>
+                                               
+                                                                                               <div class="item d-flex justify-content-between align-items-center" style="cursor:pointer;" onclick="location.href='https://community.jobaajlearnings.com//post/3'" >
+                                                    <div class="figure">
+                                                        <a href="javascript:;"><img src="https://jobaajlearnings.com//assets/images/avatar.png" onerror="this.onerror=null;this.src='http://community.jobaajlearnings.com/assets/images/avatar.png'" class="rounded-circle profile-notify" alt="image"></a>
+                                                    </div>
+                                                    <div class="text">
+                                                        <h4><a href="javascript:;">Harshit Bisaria</a></h4>
+                                                        <span>Liked your Post!</span>
+                                                        <span class="main-color">2 months ago</span>
+                                                    </div>
+                                                </div>
+                                               
+                                                                                               <div class="item d-flex justify-content-between align-items-center" style="cursor:pointer;" onclick="location.href='https://community.jobaajlearnings.com//post/3'" >
+                                                    <div class="figure">
+                                                        <a href="javascript:;"><img src="https://jobaajlearnings.com/data/pro/https://lh3.googleusercontent.com/a/AGNmyxb7ykijoRXftQZYHvzEOFkotBUfIRsRFF8hzzdDBA=s96-c" onerror="this.onerror=null;this.src='http://community.jobaajlearnings.com/assets/images/avatar.png'" class="rounded-circle profile-notify" alt="image"></a>
+                                                    </div>
+                                                    <div class="text">
+                                                        <h4><a href="javascript:;">Ananya Sadhu</a></h4>
+                                                        <span>Liked your Post!</span>
+                                                        <span class="main-color">2 months ago</span>
+                                                    </div>
+                                                </div>
+                                               
+                                                                                               <div class="item d-flex justify-content-between align-items-center" style="cursor:pointer;" onclick="location.href='https://community.jobaajlearnings.com//post/3'" >
+                                                    <div class="figure">
+                                                        <a href="javascript:;"><img src="https://jobaajlearnings.com//assets/images/avatar.png" onerror="this.onerror=null;this.src='http://community.jobaajlearnings.com/assets/images/avatar.png'" class="rounded-circle profile-notify" alt="image"></a>
+                                                    </div>
+                                                    <div class="text">
+                                                        <h4><a href="javascript:;">Manisha Pankaj Mishra </a></h4>
+                                                        <span>Liked your Post!</span>
+                                                        <span class="main-color">2 months ago</span>
+                                                    </div>
+                                                </div>
+                                               
+                                                                                               <div class="item d-flex justify-content-between align-items-center" style="cursor:pointer;" onclick="location.href='https://community.jobaajlearnings.com//post/3'" >
+                                                    <div class="figure">
+                                                        <a href="javascript:;"><img src="https://jobaajlearnings.com//assets/images/avatar.png" onerror="this.onerror=null;this.src='http://community.jobaajlearnings.com/assets/images/avatar.png'" class="rounded-circle profile-notify" alt="image"></a>
+                                                    </div>
+                                                    <div class="text">
+                                                        <h4><a href="javascript:;">Charu Kapoor</a></h4>
+                                                        <span>Added comment your Post!</span>
+                                                        <span class="main-color">2 months ago</span>
+                                                    </div>
+                                                </div>
+                                               
+                                                                                               <div class="item d-flex justify-content-between align-items-center" style="cursor:pointer;" onclick="location.href='https://community.jobaajlearnings.com//post/3'" >
+                                                    <div class="figure">
+                                                        <a href="javascript:;"><img src="https://jobaajlearnings.com//assets/images/avatar.png" onerror="this.onerror=null;this.src='http://community.jobaajlearnings.com/assets/images/avatar.png'" class="rounded-circle profile-notify" alt="image"></a>
+                                                    </div>
+                                                    <div class="text">
+                                                        <h4><a href="javascript:;">Charu Kapoor</a></h4>
+                                                        <span>Added comment your Post!</span>
+                                                        <span class="main-color">2 months ago</span>
+                                                    </div>
+                                                </div>
+                                               
+                                                                                               <div class="item d-flex justify-content-between align-items-center" style="cursor:pointer;" onclick="location.href='https://community.jobaajlearnings.com//post/3'" >
+                                                    <div class="figure">
+                                                        <a href="javascript:;"><img src="https://jobaajlearnings.com//assets/images/avatar.png" onerror="this.onerror=null;this.src='http://community.jobaajlearnings.com/assets/images/avatar.png'" class="rounded-circle profile-notify" alt="image"></a>
+                                                    </div>
+                                                    <div class="text">
+                                                        <h4><a href="javascript:;">Charu Kapoor</a></h4>
+                                                        <span>Added comment your Post!</span>
+                                                        <span class="main-color">2 months ago</span>
+                                                    </div>
+                                                </div>
+                                               
+                                                                                               <div class="item d-flex justify-content-between align-items-center" style="cursor:pointer;" onclick="location.href='https://community.jobaajlearnings.com//post/3'" >
+                                                    <div class="figure">
+                                                        <a href="javascript:;"><img src="https://jobaajlearnings.com//assets/images/avatar.png" onerror="this.onerror=null;this.src='http://community.jobaajlearnings.com/assets/images/avatar.png'" class="rounded-circle profile-notify" alt="image"></a>
+                                                    </div>
+                                                    <div class="text">
+                                                        <h4><a href="javascript:;">Charu Kapoor</a></h4>
+                                                        <span>Added comment your Post!</span>
+                                                        <span class="main-color">2 months ago</span>
+                                                    </div>
+                                                </div>
+                                               
+                                                                                               <div class="item d-flex justify-content-between align-items-center" style="cursor:pointer;" onclick="location.href='https://community.jobaajlearnings.com//post/3'" >
+                                                    <div class="figure">
+                                                        <a href="javascript:;"><img src="https://jobaajlearnings.com//assets/images/avatar.png" onerror="this.onerror=null;this.src='http://community.jobaajlearnings.com/assets/images/avatar.png'" class="rounded-circle profile-notify" alt="image"></a>
+                                                    </div>
+                                                    <div class="text">
+                                                        <h4><a href="javascript:;">Charu Kapoor</a></h4>
+                                                        <span>Added comment your Post!</span>
+                                                        <span class="main-color">2 months ago</span>
+                                                    </div>
+                                                </div>
+                                               
+                                                                                               <div class="item d-flex justify-content-between align-items-center" style="cursor:pointer;" onclick="location.href='https://community.jobaajlearnings.com//post/3'" >
+                                                    <div class="figure">
+                                                        <a href="javascript:;"><img src="https://jobaajlearnings.com//assets/images/avatar.png" onerror="this.onerror=null;this.src='http://community.jobaajlearnings.com/assets/images/avatar.png'" class="rounded-circle profile-notify" alt="image"></a>
+                                                    </div>
+                                                    <div class="text">
+                                                        <h4><a href="javascript:;">Charu Kapoor</a></h4>
+                                                        <span>Added comment your Post!</span>
+                                                        <span class="main-color">2 months ago</span>
+                                                    </div>
+                                                </div>
+                                               
+                                                                                               <div class="item d-flex justify-content-between align-items-center" style="cursor:pointer;" onclick="location.href='https://community.jobaajlearnings.com//post/3'" >
+                                                    <div class="figure">
+                                                        <a href="javascript:;"><img src="https://jobaajlearnings.com//assets/images/avatar.png" onerror="this.onerror=null;this.src='http://community.jobaajlearnings.com/assets/images/avatar.png'" class="rounded-circle profile-notify" alt="image"></a>
+                                                    </div>
+                                                    <div class="text">
+                                                        <h4><a href="javascript:;">Charu Kapoor</a></h4>
+                                                        <span>Added comment your Post!</span>
+                                                        <span class="main-color">2 months ago</span>
+                                                    </div>
+                                                </div>
+                                               
+                                                                                               <div class="item d-flex justify-content-between align-items-center" style="cursor:pointer;" onclick="location.href='https://community.jobaajlearnings.com//post/62'" >
+                                                    <div class="figure">
+                                                        <a href="javascript:;"><img src="https://jobaajlearnings.com//assets/images/avatar.png" onerror="this.onerror=null;this.src='http://community.jobaajlearnings.com/assets/images/avatar.png'" class="rounded-circle profile-notify" alt="image"></a>
+                                                    </div>
+                                                    <div class="text">
+                                                        <h4><a href="javascript:;">Iqbal Shah</a></h4>
+                                                        <span>Liked your Post!</span>
+                                                        <span class="main-color">2 months ago</span>
+                                                    </div>
+                                                </div>
+                                               
+                                                                                               <div class="item d-flex justify-content-between align-items-center" style="cursor:pointer;" onclick="location.href='https://community.jobaajlearnings.com//post/3'" >
+                                                    <div class="figure">
+                                                        <a href="javascript:;"><img src="https://jobaajlearnings.com//assets/images/avatar.png" onerror="this.onerror=null;this.src='http://community.jobaajlearnings.com/assets/images/avatar.png'" class="rounded-circle profile-notify" alt="image"></a>
+                                                    </div>
+                                                    <div class="text">
+                                                        <h4><a href="javascript:;">Iqbal Shah</a></h4>
+                                                        <span>Liked your Post!</span>
+                                                        <span class="main-color">2 months ago</span>
+                                                    </div>
+                                                </div>
+                                               
+                                                                                               <div class="item d-flex justify-content-between align-items-center" style="cursor:pointer;" onclick="location.href='https://community.jobaajlearnings.com//post/10'" >
+                                                    <div class="figure">
+                                                        <a href="javascript:;"><img src="https://jobaajlearnings.com/data/pro/1680521665pro-34225.png" onerror="this.onerror=null;this.src='http://community.jobaajlearnings.com/assets/images/avatar.png'" class="rounded-circle profile-notify" alt="image"></a>
+                                                    </div>
+                                                    <div class="text">
+                                                        <h4><a href="javascript:;">Agam Prakash</a></h4>
+                                                        <span>Liked your Post!</span>
+                                                        <span class="main-color">2 months ago</span>
+                                                    </div>
+                                                </div>
+                                               
+                                                                                               <div class="item d-flex justify-content-between align-items-center" style="cursor:pointer;" onclick="location.href='https://community.jobaajlearnings.com//post/3'" >
+                                                    <div class="figure">
+                                                        <a href="javascript:;"><img src="https://jobaajlearnings.com/data/pro/https://lh3.googleusercontent.com/a/ALm5wu1BlCDdN1ZLNKDYKsVlJ7xFJ2X1hlsvHsYDbwwu=s96-c" onerror="this.onerror=null;this.src='http://community.jobaajlearnings.com/assets/images/avatar.png'" class="rounded-circle profile-notify" alt="image"></a>
+                                                    </div>
+                                                    <div class="text">
+                                                        <h4><a href="javascript:;">Shiwani Paraye</a></h4>
+                                                        <span>Liked your Post!</span>
+                                                        <span class="main-color">2 months ago</span>
+                                                    </div>
+                                                </div>
+                                               
+                                                                                               <div class="item d-flex justify-content-between align-items-center" style="cursor:pointer;" onclick="location.href='https://community.jobaajlearnings.com//post/3'" >
+                                                    <div class="figure">
+                                                        <a href="javascript:;"><img src="https://jobaajlearnings.com/data/pro/1680618394pro-41331.png" onerror="this.onerror=null;this.src='http://community.jobaajlearnings.com/assets/images/avatar.png'" class="rounded-circle profile-notify" alt="image"></a>
+                                                    </div>
+                                                    <div class="text">
+                                                        <h4><a href="javascript:;">Mansingh Suryavanshi</a></h4>
+                                                        <span>Liked your Post!</span>
+                                                        <span class="main-color">2 months ago</span>
+                                                    </div>
+                                                </div>
+                                               
+                                                                                               <div class="item d-flex justify-content-between align-items-center" style="cursor:pointer;" onclick="location.href='https://community.jobaajlearnings.com//post/3'" >
+                                                    <div class="figure">
+                                                        <a href="javascript:;"><img src="https://jobaajlearnings.com/data/pro/https://lh3.googleusercontent.com/a/AEdFTp4y7EN-QqBUJemktqaZjgD7IFtMy5Qi3WEX56Nh=s96-c" onerror="this.onerror=null;this.src='http://community.jobaajlearnings.com/assets/images/avatar.png'" class="rounded-circle profile-notify" alt="image"></a>
+                                                    </div>
+                                                    <div class="text">
+                                                        <h4><a href="javascript:;">Prateek</a></h4>
+                                                        <span>Liked your Post!</span>
+                                                        <span class="main-color">2 months ago</span>
+                                                    </div>
+                                                </div>
+                                               
+                                                                                               <div class="item d-flex justify-content-between align-items-center" style="cursor:pointer;" onclick="location.href='https://community.jobaajlearnings.com//post/10'" >
+                                                    <div class="figure">
+                                                        <a href="javascript:;"><img src="https://jobaajlearnings.com/data/pro/1671773005pro-5.png" onerror="this.onerror=null;this.src='http://community.jobaajlearnings.com/assets/images/avatar.png'" class="rounded-circle profile-notify" alt="image"></a>
+                                                    </div>
+                                                    <div class="text">
+                                                        <h4><a href="javascript:;">Saksham agarwal </a></h4>
+                                                        <span>Liked your Post!</span>
+                                                        <span class="main-color">2 months ago</span>
+                                                    </div>
+                                                </div>
+                                               
+                                                                                               <div class="item d-flex justify-content-between align-items-center" style="cursor:pointer;" onclick="location.href='https://community.jobaajlearnings.com//post/3'" >
+                                                    <div class="figure">
+                                                        <a href="javascript:;"><img src="https://jobaajlearnings.com/data/pro/1680779117pro-1.png" onerror="this.onerror=null;this.src='http://community.jobaajlearnings.com/assets/images/avatar.png'" class="rounded-circle profile-notify" alt="image"></a>
+                                                    </div>
+                                                    <div class="text">
+                                                        <h4><a href="javascript:;">Jobaaj Learnings</a></h4>
+                                                        <span>Liked your Post!</span>
+                                                        <span class="main-color">2 months ago</span>
+                                                    </div>
+                                                </div>
+                                               
+                                                                                               <div class="item d-flex justify-content-between align-items-center" style="cursor:pointer;" onclick="location.href='https://community.jobaajlearnings.com//post/3'" >
+                                                    <div class="figure">
+                                                        <a href="javascript:;"><img src="https://jobaajlearnings.com/data/pro/1671773005pro-5.png" onerror="this.onerror=null;this.src='http://community.jobaajlearnings.com/assets/images/avatar.png'" class="rounded-circle profile-notify" alt="image"></a>
+                                                    </div>
+                                                    <div class="text">
+                                                        <h4><a href="javascript:;">Saksham agarwal </a></h4>
+                                                        <span>Liked your Post!</span>
+                                                        <span class="main-color">2 months ago</span>
+                                                    </div>
+                                                </div>
+                                               
+                                                                                               <div class="view-all-notifications-btn">
+                                                    <!--<a href="notifications.html" class="default-btn">View All Notifications</a>-->
+                                                </div>
+                                                
+                                                                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            
+                                <div class="option-item">
+                                    <div class="dropdown profile-nav-item">
+                                        <a   class="dropdown-bs-toggle" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                            <div class="menu-profile">
+                                                <img  src="https://jobaajlearnings.com/data/pro/1680779117pro-1.png" onerror=this.onerror=null;this.src='https://community.jobaajlearnings.com/assets/images/avatar.png' class="rounded-circle userAvatar" alt="image">
+                                                <span class="name">Hey! Jobaaj</span>
+                                                <span class="status-online"></span>
+                                            </div>
+                                        </a>
+                                
+                                   <div class="dropdown-menu">
+                                                                                   <div class="profile-header">
+                                                <h3>Jobaaj Learnings</h3>
+                                                <a href="mailto:contact@jobaaj.com">contact@jobaaj.com</a>
+                                            </div>
+                                            <ul class="profile-body">
+                                                <li><i class="flaticon-comment"></i> <a onclick="myPosts()"  href="javascript:;">My Posts</a></li>
+                                                <li><i class="flaticon-user"></i> <a  target="_blank" href="https://jobaajlearnings.com//dashboard/?edit">Edit Profile</a></li>
+                                                <li><i class="flaticon-menu"></i> <a onclick="changeCat()"  href="javascript:;">Update Category</a></li>
+                                                <li><i class="flaticon-logout"></i> <a href="logout">Logout</a></li>
+                                            </ul>
+                                            
+                                                                                </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+
+                <div class="others-option-for-responsive">
+                    <div class="container">
+                        <div class="dot-menu">
+                            <div class="inner">
+                                <div class="circle circle-one"></div>
+                                <div class="circle circle-two"></div>
+                                <div class="circle circle-three"></div>
+                            </div>
+                        </div>
+                        
+                        <div class="container">
+                            <div class="option-inner">
+                                <div class="others-options d-flex align-items-center">
+                                    <div class="option-item">
+                                        <a href="index.html" class="home-btn"><i class="flaticon-home"></i></a>
+                                    </div>
+                                    <div class="option-item">
+                                        <div class="dropdown friend-requests-nav-item">
+                                            <a href="#" class="dropdown-bs-toggle" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                                <div class="friend-requests-btn">
+                                                    <i class="flaticon-user"></i>
+                                                    <span>3</span>
+                                                </div>
+                                            </a>
+                
+                                            <div class="dropdown-menu">
+                                                <div class="friend-requests-header d-flex justify-content-between align-items-center">
+                                                    <h3>Friend Requests</h3>
+                                                    <i class="flaticon-menu"></i>
+                                                </div>
+    
+                                                <div class="friend-requests-body">
+                                                    <div class="item d-flex align-items-center">
+                                                        <div class="figure">
+                                                            <a href="#"><img src="https://community.jobaajlearnings.com/assets/images/user/user-2.jpg" class="rounded-circle" alt="image"></a>
+                                                        </div>
+    
+                                                        <div class="content d-flex justify-content-between align-items-center">
+                                                            <div class="text">
+                                                                <h4><a href="#">Sandra Cross</a></h4>
+                                                                <span>26 Friends</span>
+                                                            </div>
+                                                            <div class="btn-box d-flex align-items-center">
+                                                                <button class="delete-btn d-inline-block me-2" data-bs-toggle="tooltip" data-bs-placement="top" title="Delete" type="button"><i class="ri-close-line"></i></button>
+                                
+                                                                <button class="confirm-btn d-inline-block" data-bs-toggle="tooltip" data-bs-placement="top" title="Confirm" type="button"><i class="ri-check-line"></i></button>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="item d-flex align-items-center">
+                                                        <div class="figure">
+                                                            <a href="#"><img src="https://community.jobaajlearnings.com/assets/images/user/user-3.jpg" class="rounded-circle" alt="image"></a>
+                                                        </div>
+    
+                                                        <div class="content d-flex justify-content-between align-items-center">
+                                                            <div class="text">
+                                                                <h4><a href="#">Kenneth Crowe</a></h4>
+                                                                <span>53 Friends</span>
+                                                            </div>
+                                                            <div class="btn-box d-flex align-items-center">
+                                                                <button class="delete-btn d-inline-block me-2" data-bs-toggle="tooltip" data-bs-placement="top" title="Delete" type="button"><i class="ri-close-line"></i></button>
+                                
+                                                                <button class="confirm-btn d-inline-block" data-bs-toggle="tooltip" data-bs-placement="top" title="Confirm" type="button"><i class="ri-check-line"></i></button>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="item d-flex align-items-center">
+                                                        <div class="figure">
+                                                            <a href="#"><img src="https://community.jobaajlearnings.com/assets/images/user/user-4.jpg" class="rounded-circle" alt="image"></a>
+                                                        </div>
+    
+                                                        <div class="content d-flex justify-content-between align-items-center">
+                                                            <div class="text">
+                                                                <h4><a href="#">Andrea Harwell</a></h4>
+                                                                <span>99 Friends</span>
+                                                            </div>
+                                                            <div class="btn-box d-flex align-items-center">
+                                                                <button class="delete-btn d-inline-block me-2" data-bs-toggle="tooltip" data-bs-placement="top" title="Delete" type="button"><i class="ri-close-line"></i></button>
+                                
+                                                                <button class="confirm-btn d-inline-block" data-bs-toggle="tooltip" data-bs-placement="top" title="Confirm" type="button"><i class="ri-check-line"></i></button>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="item d-flex align-items-center">
+                                                        <div class="figure">
+                                                            <a href="#"><img src="https://community.jobaajlearnings.com/assets/images/user/user-5.jpg" class="rounded-circle" alt="image"></a>
+                                                        </div>
+    
+                                                        <div class="content d-flex justify-content-between align-items-center">
+                                                            <div class="text">
+                                                                <h4><a href="#">John Lago</a></h4>
+                                                                <span>18 Friends</span>
+                                                            </div>
+                                                            <div class="btn-box d-flex align-items-center">
+                                                                <button class="delete-btn d-inline-block me-2" data-bs-toggle="tooltip" data-bs-placement="top" title="Delete" type="button"><i class="ri-close-line"></i></button>
+                                
+                                                                <button class="confirm-btn d-inline-block" data-bs-toggle="tooltip" data-bs-placement="top" title="Confirm" type="button"><i class="ri-check-line"></i></button>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="view-all-requests-btn">
+                                                        <a href="friends.html" class="default-btn">View All Requests</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="option-item">
+                                        <div class="dropdown messages-nav-item">
+                                            <a href="#" class="dropdown-bs-toggle" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                                <div class="messages-btn">
+                                                    <i class="flaticon-email"></i>
+                                                    <span>2</span>
+                                                </div>
+                                            </a>
+                
+                                            <div class="dropdown-menu">
+                                                <div class="messages-header d-flex justify-content-between align-items-center">
+                                                    <h3>Messages</h3>
+                                                    <i class="flaticon-menu"></i>
+                                                </div>
+                                                <div class="messages-search-box">
+                                                    <form>
+                                                        <input type="text" class="input-search" placeholder="Search Message...">
+                                                        <button type="submit"><i class="ri-search-line"></i></button>
+                                                    </form>
+                                                </div>
+                                                <div class="messages-body">
+                                                    <div class="item d-flex justify-content-between align-items-center">
+                                                        <div class="figure">
+                                                            <a href="#"><img src="https://community.jobaajlearnings.com/assets/images/user/user-11.jpg" class="rounded-circle" alt="image"></a>
+                                                        </div>
+                                                        <div class="text">
+                                                            <h4><a href="#">James Vanwin</a></h4>
+                                                            <span>Hello Dear I Want Talk To You</span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="item d-flex justify-content-between align-items-center">
+                                                        <div class="figure">
+                                                            <a href="#"><img src="https://community.jobaajlearnings.com/assets/images/user/user-12.jpg" class="rounded-circle" alt="image"></a>
+                                                        </div>
+                                                        <div class="text">
+                                                            <h4><a href="#">Harry Lopez</a></h4>
+                                                            <span>Hi. I Am looking For UI Designer</span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="item d-flex justify-content-between align-items-center">
+                                                        <div class="figure">
+                                                            <a href="#"><img src="https://community.jobaajlearnings.com/assets/images/user/user-13.jpg" class="rounded-circle" alt="image"></a>
+                                                        </div>
+                                                        <div class="text">
+                                                            <h4><a href="#">Matthew Smith</a></h4>
+                                                            <span>Thanks For Connecting!</span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="item d-flex justify-content-between align-items-center">
+                                                        <div class="figure">
+                                                            <a href="#"><img src="https://community.jobaajlearnings.com/assets/images/user/user-14.jpg" class="rounded-circle" alt="image"></a>
+                                                        </div>
+                                                        <div class="text">
+                                                            <h4><a href="#">Russe Smith</a></h4>
+                                                            <span>Thanks For Connecting!</span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="view-all-messages-btn">
+                                                        <a href="messages.html" class="default-btn">View All Messages</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="option-item">
+                                        <div class="dropdown notifications-nav-item">
+                                            <a href="#" class="dropdown-bs-toggle" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                                <div class="notifications-btn">
+                                                    <i class="flaticon-bell"></i>
+                                                    <span>1</span>
+                                                </div>
+                                            </a>
+                
+                                            <div class="dropdown-menu">
+                                                <div class="notifications-header d-flex justify-content-between align-items-center">
+                                                    <h3>Notifications</h3>
+                                                    <i class="flaticon-menu"></i>
+                                                </div>
+                                                <div class="notifications-body">
+                                                    <div class="item d-flex justify-content-between align-items-center">
+                                                        <div class="figure">
+                                                            <a href="#"><img src="https://community.jobaajlearnings.com/assets/images/user/user-11.jpg" class="rounded-circle" alt="image"></a>
+                                                        </div>
+                                                        <div class="text">
+                                                            <h4><a href="#">James Vanwin</a></h4>
+                                                            <span>Posted A Comment On Your Status</span>
+                                                            <span class="main-color">20 Minites Ago</span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="item d-flex justify-content-between align-items-center">
+                                                        <div class="figure">
+                                                            <a href="#"><img src="https://community.jobaajlearnings.com/assets/images/user/user-12.jpg" class="rounded-circle" alt="image"></a>
+                                                        </div>
+                                                        <div class="text">
+                                                            <h4><a href="#">Harry Lopez</a></h4>
+                                                            <span>Sent You A Friend Request</span>
+                                                            <span class="main-color">2 Days Ago</span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="item d-flex justify-content-between align-items-center">
+                                                        <div class="figure">
+                                                            <a href="#"><img src="https://community.jobaajlearnings.com/assets/images/user/user-13.jpg" class="rounded-circle" alt="image"></a>
+                                                        </div>
+                                                        <div class="text">
+                                                            <h4><a href="#">Matthew Smith</a></h4>
+                                                            <span>Add A Photo In Design Group</span>
+                                                            <span class="main-color">3 Days Ago</span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="view-all-notifications-btn">
+                                                        <a href="notifications.html" class="default-btn">View All Notifications</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="option-item">
+                                        <div class="dropdown language-option">
+                                            <button class="dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                                <i class="flaticon-global"></i>
+                                                <span class="lang-name"></span>
+                                            </button>
+                                            <div class="dropdown-menu language-dropdown-menu">
+                                                <a class="dropdown-item" href="#">
+                                                    <img src="https://community.jobaajlearnings.com/assets/images/uk.png" alt="flag">
+                                                    Eng
+                                                </a>
+                                                <a class="dropdown-item" href="#">
+                                                    <img src="https://community.jobaajlearnings.com/assets/images/china.png" alt="flag">
+                                                    简体中文
+                                                </a>
+                                                <a class="dropdown-item" href="#">
+                                                    <img src="https://community.jobaajlearnings.com/assets/images/uae.png" alt="flag">
+                                                    العربيّة
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="option-item">
+                                        <div class="dropdown profile-nav-item" style="    ">
+                                            <a href="#" class="dropdown-bs-toggle" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                                <div class="menu-profile" style="margin-right: -45px;">
+                                                    <img src="https://community.jobaajlearnings.com/assets/images/user/user-1.jpg" class="rounded-circle" alt="image">
+                                                    <span class="name">Matthew</span>
+                                                    <span class="status-online"></span>
+                                                </div>
+                                            </a>
+                
+                                            <div class="dropdown-menu">
+                                                <div class="profile-header">
+                                                    <h3>Matthew Turner</h3>
+                                                    <a href="mailto:matthew507@gmail.com">matthew507@gmail.com</a>
+                                                </div>
+                                                <ul class="profile-body">
+                                                    <li><i class="flaticon-user"></i> <a href="my-profile.html">My Profile</a></li>
+                                                    <li><i class="flaticon-settings"></i> <a href="setting.html">Setting</a></li>
+                                                    <li><i class="flaticon-privacy"></i> <a href="privacy.html">Privacy</a></li>
+                                                    <li><i class="flaticon-information"></i> <a href="help-and-support.html">Help & Support</a></li>
+                                                    <li><i class="flaticon-logout"></i> <a href="index.html">Logout</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="option-item">
+                                        <div class="search-box">
+                                            <form>
+                                                <input type="text" class="input-search" placeholder="Search...">
+                                                <button type="submit"><i class="ri-search-line"></i></button>
+                                            </form>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>       
+            </div>
+            
+            
+                             
+            <!-- End Navbar Area -->   
+<style>
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 10px;
+  z-index: 111;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 2px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+.open-class{
+    width:250px;
+}
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
+.menu_sidebar li img{
+    max-width:26px;
+}
+
+.menu_sidebar {
+    list-style:none;
+    margin-top:1rem;
+    padding-left: 1rem !important;
+
+} 
+.menu_sidebar li .menu-title{
+   font-weight: 600;
+    font-size: .8rem;
+    color: #222;
+        
+}
+.menu_sidebar li a {
+    margin-bottom: 0.5rem;
+}
+.nav-link-active .menu-title {
+    color:#4251ec !important;
+}
+
+</style>
+
+<div id="mySidenav" class="sidenav">
+  <div class="" style="width: 15rem;">
+                    <p style="padding-top:.5rem;margin:0 .5rem;font-weight:600;font-size:.8rem">Categories</p>
+                    <ul class="menu_sidebar metisMenu h-100" >
+                                                <li class="nav-item">
+                            <a onclick="getPosts('-2')" href="#All" id="cat--2" class="nav-link ">
+                                <span class="icon"><img src="https://community.jobaajlearnings.com/assets/cat/manage.png"/></span>
+                                <span class="menu-title">All</span>
+                            </a>
+                        </li>
+                        
+                                                <li class="nav-item">
+                            <a onclick="getPosts('-1')" href="#Announcements" id="cat--1" class="nav-link ">
+                                <span class="icon"><img src="https://community.jobaajlearnings.com/assets/cat/announce.png"/></span>
+                                <span class="menu-title">Announcements</span>
+                            </a>
+                        </li>
+                        
+                                                <li class="nav-item">
+                            <a onclick="getPosts('2')" href="#DataScienceAnalytics" id="cat-2" class="nav-link ">
+                                <span class="icon"><img src="https://community.jobaajlearnings.com/assets/cat/data.png"/></span>
+                                <span class="menu-title">Data Science & Analytics</span>
+                            </a>
+                        </li>
+                        
+                                                <li class="nav-item">
+                            <a onclick="getPosts('1')" href="#Finance" id="cat-1" class="nav-link ">
+                                <span class="icon"><img src="https://community.jobaajlearnings.com/assets/cat/finance.png"/></span>
+                                <span class="menu-title">Finance</span>
+                            </a>
+                        </li>
+                        
+                                                <li class="nav-item">
+                            <a onclick="getPosts('4')" href="#Trading" id="cat-4" class="nav-link ">
+                                <span class="icon"><img src="https://community.jobaajlearnings.com/assets/cat/trading.png"/></span>
+                                <span class="menu-title">Trading</span>
+                            </a>
+                        </li>
+                        
+                                                <li class="nav-item">
+                            <a onclick="getPosts('3')" href="#Managementconsulting" id="cat-3" class="nav-link ">
+                                <span class="icon"><img src="https://community.jobaajlearnings.com/assets/cat/manage.png"/></span>
+                                <span class="menu-title">Management consulting</span>
+                            </a>
+                        </li>
+                        
+                                                <li class="nav-item">
+                            <a onclick="getPosts('5')" href="#ProductManagement" id="cat-5" class="nav-link ">
+                                <span class="icon"><img src="https://community.jobaajlearnings.com/assets/cat/trading.png"/></span>
+                                <span class="menu-title">Product Management</span>
+                            </a>
+                        </li>
+                        
+                                                                <img style="margin-top: 22px;cursor:pointer;" onclick="location.href='https://www.jobaajlearnings.com/workshop'"  src="https://community.jobaajlearnings.com/assets/offer-banner-workshop.jpg"/>
+
+                    </ul>
+                </div>
+                </div>
+
+
+<script>
+function openNav() {
+  $("#mySidenav").toggleClass('open-class');
+}
+</script>
+                
+    
+            <!-- Start Content Page Box Area -->
+            <div class="content-page-box-area">
+                <div class="row">
+                   
+                    <div class="col-lg-3 side_home" >
+                    <div style="width:16rem;background:#fff;padding-right:1rem">
+                    <p style="padding-top:.5rem;margin:0 .5rem;font-weight:600;font-size:.8rem">Categories</p>
+                    <ul style="padding-left:0px !important;" class="menu_sidebar metisMenu" >
+                        
+                                                <li class="nav-item">
+                            <a onclick="getPosts('-2')" href="#All" id="cat-2" class="nav-link ">
+                                <span class="icon"><img src="https://community.jobaajlearnings.com/assets/cat/manage.png"/></span>
+                                <span class="menu-title">All</span>
+                            </a>
+                        </li>
+                                                <li class="nav-item">
+                            <a onclick="getPosts('-1')" href="#Announcements" id="cat-1" class="nav-link ">
+                                <span class="icon"><img src="https://community.jobaajlearnings.com/assets/cat/announce.png"/></span>
+                                <span class="menu-title">Announcements</span>
+                            </a>
+                        </li>
+                                                <li class="nav-item">
+                            <a onclick="getPosts('2')" href="#DataScienceAnalytics" id="cat2" class="nav-link ">
+                                <span class="icon"><img src="https://community.jobaajlearnings.com/assets/cat/data.png"/></span>
+                                <span class="menu-title">Data Science & Analytics</span>
+                            </a>
+                        </li>
+                                                <li class="nav-item">
+                            <a onclick="getPosts('1')" href="#Finance" id="cat1" class="nav-link ">
+                                <span class="icon"><img src="https://community.jobaajlearnings.com/assets/cat/finance.png"/></span>
+                                <span class="menu-title">Finance</span>
+                            </a>
+                        </li>
+                                                <li class="nav-item">
+                            <a onclick="getPosts('4')" href="#Trading" id="cat4" class="nav-link ">
+                                <span class="icon"><img src="https://community.jobaajlearnings.com/assets/cat/trading.png"/></span>
+                                <span class="menu-title">Trading</span>
+                            </a>
+                        </li>
+                                                <li class="nav-item">
+                            <a onclick="getPosts('3')" href="#Managementconsulting" id="cat3" class="nav-link ">
+                                <span class="icon"><img src="https://community.jobaajlearnings.com/assets/cat/manage.png"/></span>
+                                <span class="menu-title">Management consulting</span>
+                            </a>
+                        </li>
+                                                <li class="nav-item">
+                            <a onclick="getPosts('5')" href="#ProductManagement" id="cat5" class="nav-link ">
+                                <span class="icon"><img src="https://community.jobaajlearnings.com/assets/cat/trading.png"/></span>
+                                <span class="menu-title">Product Management</span>
+                            </a>
+                        </li>
+                                                
+                    </ul>
+                <img style="padding-left:1rem;margin-top: 22px;max-width: 238px;cursor:pointer;" onclick="location.href='https://www.jobaajlearnings.com/workshop'"  src="https://community.jobaajlearnings.com/assets/offer-banner-workshop.jpg"/>
+                 
+                 <br/><br/> </div>
+            
+            </div>
+                    <div class="col-lg-6  col-md-12">
+                        
+                        <div class="news-feed-area">
+                            <div class="news-feed news-feed-form">
+                                <form>
+                                    <div style="    display: flex;" class="form-group">
+                                    <img style="height: 44px;margin-right: 1rem;max-width: 44px !important;"  src='https://jobaajlearnings.com/data/pro/1680779117pro-1.png' onerror=this.onerror=null;this.src='assets/images/avatar.png' class='rounded-circle user-profile'>
+
+                                    <input name="message" readonly onclick="openPost()" class="form-control" placeholder="What's on your mind, Jobaaj?"/>
+                                    </div>
+                                    <ul class="button-group d-flex justify-content-between align-items-center">
+                                        <li class="photo-btn">
+                                            <button type="button" onclick="openPost()"><i class="fa-regular fa-image"></i> Photo</button>
+                                        </li>
+                                        <li class="video-btn">
+                                            <button type="button" onclick="openPost()"><i class="fa-solid fa-file-image"></i> Gif</button>
+                                        </li>
+                                        <li class="tag-btn">
+                                            <button type="button" onclick="openPost()"><i class="fa-solid fa-award"></i> Awards / Certificate</button>
+                                        </li>
+                                       
+                                    </ul>
+                                </form>
+                            </div>
+            
+                             <div class="placeholder" style="background:transparent">
+       
+                    
+            <div class="card" style="padding:20px;">
+              <div class="boxes" style="display:flex;height:15rem">
+                <div class="shine" style="    border-radius: 10px;min-width: 69px;
+                        height: 61px;
+                        margin-right: 27px"></div>
+                <div>
+                  <lines class="shine" style="width:51%;height:12px;"></lines>
+                  <lines class="shine" style="height:11px;width:224px;margin-top:15px;"></lines>
+                  
+                    
+                </div>
+                
+              </div>
+              
+              
+              <div style="display:flex;justify-content: space-around;margin-top: 10px;">
+                <lines class="shine" style="height:10px;width:100px;"></lines>
+                <lines class="shine" style="height:10px;width:100px;margin-left:10px;"></lines>
+                <lines class="shine" style="height:10px;width:100px;margin-left:10px;"></lines>
+              </div>
+
+            </div>
+            <br>
+                    
+            <div class="card" style="padding:20px;">
+              <div class="boxes" style="display:flex;height:15rem">
+                <div class="shine" style="    border-radius: 10px;min-width: 69px;
+                        height: 61px;
+                        margin-right: 27px"></div>
+                <div>
+                  <lines class="shine" style="width:51%;height:12px;"></lines>
+                  <lines class="shine" style="height:11px;width:224px;margin-top:15px;"></lines>
+                  
+                    
+                </div>
+                
+              </div>
+              
+              
+              <div style="display:flex;justify-content: space-around;margin-top: 10px;">
+                <lines class="shine" style="height:10px;width:100px;"></lines>
+                <lines class="shine" style="height:10px;width:100px;margin-left:10px;"></lines>
+                <lines class="shine" style="height:10px;width:100px;margin-left:10px;"></lines>
+              </div>
+
+            </div>
+            <br>
+                    
+            <div class="card" style="padding:20px;">
+              <div class="boxes" style="display:flex;height:15rem">
+                <div class="shine" style="    border-radius: 10px;min-width: 69px;
+                        height: 61px;
+                        margin-right: 27px"></div>
+                <div>
+                  <lines class="shine" style="width:51%;height:12px;"></lines>
+                  <lines class="shine" style="height:11px;width:224px;margin-top:15px;"></lines>
+                  
+                    
+                </div>
+                
+              </div>
+              
+              
+              <div style="display:flex;justify-content: space-around;margin-top: 10px;">
+                <lines class="shine" style="height:10px;width:100px;"></lines>
+                <lines class="shine" style="height:10px;width:100px;margin-left:10px;"></lines>
+                <lines class="shine" style="height:10px;width:100px;margin-left:10px;"></lines>
+              </div>
+
+            </div>
+            <br>
+                    
+            <div class="card" style="padding:20px;">
+              <div class="boxes" style="display:flex;height:15rem">
+                <div class="shine" style="    border-radius: 10px;min-width: 69px;
+                        height: 61px;
+                        margin-right: 27px"></div>
+                <div>
+                  <lines class="shine" style="width:51%;height:12px;"></lines>
+                  <lines class="shine" style="height:11px;width:224px;margin-top:15px;"></lines>
+                  
+                    
+                </div>
+                
+              </div>
+              
+              
+              <div style="display:flex;justify-content: space-around;margin-top: 10px;">
+                <lines class="shine" style="height:10px;width:100px;"></lines>
+                <lines class="shine" style="height:10px;width:100px;margin-left:10px;"></lines>
+                <lines class="shine" style="height:10px;width:100px;margin-left:10px;"></lines>
+              </div>
+
+            </div>
+            <br>
+                    
+            <div class="card" style="padding:20px;">
+              <div class="boxes" style="display:flex;height:15rem">
+                <div class="shine" style="    border-radius: 10px;min-width: 69px;
+                        height: 61px;
+                        margin-right: 27px"></div>
+                <div>
+                  <lines class="shine" style="width:51%;height:12px;"></lines>
+                  <lines class="shine" style="height:11px;width:224px;margin-top:15px;"></lines>
+                  
+                    
+                </div>
+                
+              </div>
+              
+              
+              <div style="display:flex;justify-content: space-around;margin-top: 10px;">
+                <lines class="shine" style="height:10px;width:100px;"></lines>
+                <lines class="shine" style="height:10px;width:100px;margin-left:10px;"></lines>
+                <lines class="shine" style="height:10px;width:100px;margin-left:10px;"></lines>
+              </div>
+
+            </div>
+            <br>
+                    
+            <div class="card" style="padding:20px;">
+              <div class="boxes" style="display:flex;height:15rem">
+                <div class="shine" style="    border-radius: 10px;min-width: 69px;
+                        height: 61px;
+                        margin-right: 27px"></div>
+                <div>
+                  <lines class="shine" style="width:51%;height:12px;"></lines>
+                  <lines class="shine" style="height:11px;width:224px;margin-top:15px;"></lines>
+                  
+                    
+                </div>
+                
+              </div>
+              
+              
+              <div style="display:flex;justify-content: space-around;margin-top: 10px;">
+                <lines class="shine" style="height:10px;width:100px;"></lines>
+                <lines class="shine" style="height:10px;width:100px;margin-left:10px;"></lines>
+                <lines class="shine" style="height:10px;width:100px;margin-left:10px;"></lines>
+              </div>
+
+            </div>
+            <br>
+                  </div>
+        
+ <style>
+ 
+          .placeholder {
+            display: none;
+          }
+            .colm .card {
+                    border: 1px solid rgb(193 193 193 / 0%);
+            }
+          .boxes {
+            width: 600px;
+          }
+
+          .shine {
+            background: #f6f7f8;
+            background-image: linear-gradient(to right, #f6f7f8 0%, #edeef1 20%, #f6f7f8 40%, #f6f7f8 100%);
+            background-repeat: no-repeat;
+            
+            background-size: 800px 104px;
+            display: inline-block;
+            position: relative;
+
+            -webkit-animation-duration: 1s;
+            -webkit-animation-fill-mode: forwards;
+            -webkit-animation-iteration-count: infinite;
+            -webkit-animation-name: placeholderShimmer;
+            -webkit-animation-timing-function: linear;
+          }
+
+          .box {
+            height: 76px;
+            width: 82px;
+          }
+
+          .pro {
+            border-radius: 10px;
+            width: 80px;
+            margin-left: 25px;
+            margin-top: 15px;
+            vertical-align: top;
+          }
+
+          lines {
+            width: 100%;
+            height: 15px;
+            border-radius: 5px;
+            margin-top: 10px;
+          }
+
+
+          @-webkit-keyframes placeholderShimmer {
+            0% {
+              background-position: -468px 0;
+            }
+
+            100% {
+              background-position: 468px 0;
+            }
+          }
+        </style>
+
+                                               <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
+
+
+
+                            <div class="mainBox">
+                                
+                                
+                            </div>
+                            
+<script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
+
+ 
+  
+  
+                            <div>
+                                                        <img src="assets/nopost.png" class="nopost" style="display: none;width: 10rem;margin: 0 auto;"/>
+
+                            </div>
+                            <div class="load-more-posts-btn">
+                                <a href="javascript:;" onclick="getMorePosts()"><i class="flaticon-loading"></i> Load More Posts</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <aside class="widget-area" style="padding: 0 .5rem;">
+                           
+                        </aside>
+                    </div>
+                </div>
+            </div>
+            <!-- End Content Page Box Area -->
+           
+<script>
+var global_cat = '-';
+var offset = 0;
+    
+  function rightOpen(){
+      $(".right-sidebar-area").toggleClass('right-size');
+      $("#arrowBtn").toggleClass('right-size2');
+  }
+  function openPost(){
+      
+      if(global_cat != '-' && global_cat != '-1' && global_cat != '0')
+       $(".post-cat").val(global_cat);
+
+       
+       $("#showPost").show();
+        
+        
+             
+  }
+  
+  function getMorePosts(){
+      offset+=10;
+     
+      getPosts(global_cat)
+  }
+    
+  function searchTopic(input){
+      
+      $(".nopost").hide();
+      
+     if(input == 1)
+     search_key =  $("#search_input").val();
+     else
+     search_key =  $("#search_input2").val();
+     
+     
+     if(search_key=='') return false;
+     
+     $(".placeholder").show();
+     
+     $.ajax({
+          url: "https://community.jobaajlearnings.com/fun/getPost",
+          type: "POST",
+          data: {
+            getPosts: 'query',
+            cat_id : global_cat,
+            search : search_key,
+            offset : offset
+          },
+          cache: false,
+          dataType: 'JSON',
+          success: function(result) {
+              
+          
+               
+            if(result.count < 5)
+                $(".load-more-posts-btn").hide();
+            else 
+                $(".load-more-posts-btn").show();
+            
+            if(result.posts != 0)
+              $(".mainBox").html(result.posts);
+            else {
+                $(".mainBox").html('');
+              $(".nopost").css('display','block');
+            }
+             
+              $(".placeholder").hide(1000);
+          
+            
+
+     
+          }
+        }).fail(function(jqXHR, textStatus, error) {
+         // alert(error);
+    
+        });
+        
+      
+  }
+ 
+  $('#search_input').keypress(function (e) {
+          if (e.which == 13) {
+            searchTopic(1);
+            return false;    //<---- Add this line
+          }
+  });
+            
+  $('#search_input2').keypress(function (e) {
+          if (e.which == 13) {
+            searchTopic(2);
+            return false;    //<---- Add this line
+          }
+   });
+            
+  function getPosts(cat){
+
+
+    
+    $(".nav-link").removeClass('nav-link-active');
+    $("#cat"+cat).addClass('nav-link-active');
+
+        
+    if(global_cat != cat){
+        $(".mainBox").html('')
+    }else{
+        return;
+    }
+    
+     global_cat = cat;
+    search_key =  $("#search_input").val();
+    
+    $(".placeholder").show();
+            
+            
+        console.log(cat);   
+        $.ajax({
+          url: "https://community.jobaajlearnings.com/fun/getPost",
+          type: "POST",
+          data: {
+            getPosts: 'query',
+            cat_id : cat,
+            search : search_key,
+            offset : offset
+          },
+          cache: false,
+          dataType: 'JSON',
+          success: function(result) {
+              console.log(result)
+            if(result.count < 5)
+                $(".load-more-posts-btn").hide();
+            else 
+                $(".load-more-posts-btn").show();
+                
+            if(cat!=0 || cat != -1)
+                getMentors(cat);
+                
+                 if(cat == -1)
+                  getWorkshops();
+            
+            if(result.posts != 0)
+              $(".mainBox").append(result.posts);
+             
+              $(".placeholder").hide(1000);
+              
+            //Swiper js code 
+            var swiper = new Swiper(".mySwiper", {
+            pagination: {
+            el: ".swiper-pagination",
+            type: "fraction",
+            },
+            navigation: {
+            nextEl: ".swiper-button-next",
+            prevEl: ".swiper-button-prev",
+            },
+            });
+              
+
+          }
+        }).fail(function(jqXHR, textStatus, error) {
+         // alert(error);
+    
+        });
+        
+    }
+    
+  function myPosts(){
+
+    $(".mainBox").html('')
+    $(".placeholder").show();
+    
+    
+        $.ajax({
+          url: "https://community.jobaajlearnings.com/fun/getPost",
+          type: "GET",
+          data: {
+            myPosts: 'query',
+            offset : 0
+          },
+          cache: false,
+          dataType: 'JSON',
+          success: function(result) {
+              console.log(result)
+            if(result.count < 5)
+                $(".load-more-posts-btn").hide();
+            else 
+                $(".load-more-posts-btn").show();
+                
+           
+            //  getWorkshops();
+            
+            if(result.posts != 0)
+              $(".mainBox").append(result.posts);
+             
+              $(".placeholder").hide(1000);
+              
+            //Swiper js code 
+            var swiper = new Swiper(".mySwiper", {
+            pagination: {
+            el: ".swiper-pagination",
+            type: "fraction",
+            },
+            navigation: {
+                nextEl: ".swiper-button-next",
+                prevEl: ".swiper-button-prev",
+            },
+            });
+            
+           
+              
+
+          }
+        }).fail(function(jqXHR, textStatus, error) {
+            // alert(error);
+    
+        });
+        
+  }    
+
+  function getMentors(cat){
+      
+    //$(".placeholder").show();
+    
+        $.ajax({
+          url: "https://community.jobaajlearnings.com/fun/User",
+          type: "POST",
+          data: {
+            getMentors: 'query',
+            cat_id : cat,
+          },
+          cache: false,
+          dataType: 'JSON',
+          success: function(result) {
+              
+            if(result.mentors != 0)
+              $(".widget-area").html(result.mentors);
+             $(".placeholder").hide(1000);
+     
+          }
+        }).fail(function(jqXHR, textStatus, error) {
+    
+        });
+        
+    }
+    
+  function getWorkshops(){
+      
+    
+        $.ajax({
+          url: "https://community.jobaajlearnings.com/fun/User",
+          type: "POST",
+          data: {
+            getWorkshops: 'query',
+          },
+          cache: false,
+          dataType: 'JSON',
+          success: function(result) {
+              
+              $(".widget-area").html(result.workshop);
+     
+          }
+        }).fail(function(jqXHR, textStatus, error) {
+    
+        });
+        
+    }
+    
+    
+  function addPost(){
+        
+       post = $(".post-editor").val();
+       post = post.replace(/\n/g,"[nl]");
+       $(".post-editor2").val(post);
+       cat = $(".post-cat").val();
+       
+        $(".post-loader").css('display','flex'); 
+        
+        $.ajax({
+          url: "https://community.jobaajlearnings.com/fun/addPost",
+          type: "POST",
+          data: new FormData($('#postForm')[0]),
+          cache: false,
+          processData: false,
+          contentType: false,
+          success: function(result) {
+            if(result == 1){
+               $(".post-loader").hide();
+               $("#showPost").hide();
+                $(".post-editor").val('');
+             
+              if($("#postInput").val() == '0') {
+                  showToast('Post added for review!',5000);
+                  myPosts();
+               }
+               else{
+                   showToast('Post edited & send for review!',5000);
+                   location.reload(); 
+               }
+                showToast('Post added for review!',5000);
+                
+
+            }
+    
+          }
+        }).fail(function(jqXHR, textStatus, error) {
+         alert(error);
+    
+        });
+    }
+    
+    
+   window.addEventListener('load', function() {
+    var editbox = document.getElementsByClassName("emojionearea-editor")[0]
+
+    editbox.addEventListener('keyup', (e) => {
+        // and here is how to detect the enter key
+        text = e.target.textContent;
+         
+        btnSubmit  = $("#postNow");
+        
+          if (text.trim() != "")
+             btnSubmit.removeAttr("disabled");
+          else 
+             btnSubmit.attr("disabled", "disabled");
+        
+        // if(text.length > 85)
+        //     editbox.css('font-size',".9rem");
+        // else
+        //     editbox.css('font-size',"1.2rem");
+       
+           
+    });
+    });
+    
+  function delPost(post){
+        
+         $.ajax({
+                  url: "https://community.jobaajlearnings.com/fun/addPost",
+                  type: "POST",
+                  data: {
+                    delPost: true,
+                    post: post
+                  },
+                  cache: false,
+                  success: function(result) {
+                      $(".post"+post).fadeOut(1000);
+                  }
+                }).fail(function(jqXHR, textStatus, error) {  });
+   
+    }
+    
+      function updateCategory(){
+        
+        let selCat = $("input[name='cat']:checked").val();
+        console.log(selCat)
+         $.ajax({
+                  url: "https://community.jobaajlearnings.com/fun/User",
+                  type: "POST",
+                  data: {
+                    updateCat: true,
+                    cat: selCat
+                  },
+                  cache: false,
+                  success: function(result) {
+                      console.log(result)
+                      $("#showCategory").hide();
+                      showToast('Category Updated!',3000);
+                  }
+                }).fail(function(jqXHR, textStatus, error) {  });
+   
+    }
+    
+  function delCmt(cmt_id){
+        
+     $.ajax({
+                  url: "https://community.jobaajlearnings.com/fun/addPost",
+                  type: "POST",
+                  data: {
+                    delComment: true,
+                    cmt: cmt_id
+                  },
+                  cache: false,
+                  success: function(result) {
+                      $(".cmt"+cmt_id).fadeOut(800);
+                  }
+                });
+    }
+    
+    
+   function updateCmt(cmt_id){
+       
+        let commentBox = $(".editBox"+cmt_id);
+        let commentNew = commentBox.html().trim();
+        if(commentNew == '')
+         return
+        
+         $.ajax({
+                  url: "https://community.jobaajlearnings.com/fun/addPost",
+                  type: "POST",
+                  data: {
+                    updateComment: true,
+                    cmt: cmt_id,
+                    cmtText: commentNew
+                  },
+                  cache: false,
+                  success: function(result) {
+                      $(".updateBox"+cmt_id).hide();
+                      commentBox.attr('contenteditable','false');
+                  }
+                });
+        
+   }
+
+
+   function editCmt(cmt_id){
+       
+        let editorCmt = $(".editBox"+cmt_id);
+        editorCmt.attr('contenteditable','true');
+         $(".updateBox"+cmt_id).show();
+    
+        setTimeout(function() {
+          
+       var selectedText = window.getSelection();
+ 
+      // create a range
+      var selectedRange = document.createRange();
+
+      // set starting position of the cursor in the texts
+      selectedRange.setStart(document.querySelector(`.editBox${cmt_id}`).childNodes[0], editorCmt.text().length);
+
+      // collapse the range at boundaries
+      selectedRange.collapse(true);
+
+      // remove all ranges
+      selectedText.removeAllRanges();
+
+      // add a new range to the selected text
+      selectedText.addRange(selectedRange);
+
+      // focus the cursor
+      editorCmt.focus();
+      }, 10);
+     
+  }
+
+
+    
+  function editPost(post){
+      
+        $("#showPost").show();
+        $(".emojionearea-editor").focus();
+        con = $(".postContent"+post).html();
+        // con = con.replaceAll("<br>","<br>");
+        
+        $(".post-editor2").val(con);
+    
+    let Editor = $(".emojionearea-editor");
+        
+    Editor.html(con);
+       
+    setTimeout(function() {
+          
+       var selectedText = window.getSelection();
+       var selectedRange = document.createRange();
+       selectedRange.setStart(document.querySelector(`.emojionearea-editor`).childNodes[0], Editor.html().length);
+       selectedRange.collapse(true);
+       selectedText.removeAllRanges();
+       selectedText.addRange(selectedRange);
+ 
+       Editor.focus();
+     }, 10);
+      
+        cat = $(".postCat"+post).html();
+        
+         $("#postNow").removeAttr("disabled");
+        
+         $(`.post-cat option[val=${cat}]`).attr("selected", "selected");
+         $('.post-cat option:selected').attr("selected",null);
+      
+        //for single image
+         current_src = $(".postImg"+post).attr('src');
+         if(current_src!=undefined){
+           $(".emojionearea-editor").css({'font-size':'.9rem','min-height':'2rem'});
+           $('#img-preview').append("<div style='width:50%'><img class='pimg' src='"+current_src+"'></div>");
+             $(".img-choosen").show();
+              $("#file_url").val(current_src);     
+         }else{
+             
+            const imgs =  document.querySelectorAll(`.swiperWrapper${post} img`)
+            if(imgs.length > 0){
+            $(".emojionearea-editor").css({'font-size':'.9rem','min-height':'2rem'});
+            $(".img-choosen").show();
+            imgs.forEach(img => {
+                $('#img-preview').append("<div style='width:50%'><img class='pimg' src='"+img.src+"'></div>");
+                var file = $("#file_url")
+                file.val(file.val()+','+img.src);     
+    
+            });
+            }
+            
+        
+         }
+         
+        
+      
+        
+         
+         //for multiple img 
+         
+           
+        $("#postInput").val(post);     
+        
+        
+        
+    }
+    
+  function getCatId(key) {
+    
+      var dict = {
+                 
+          All : -2,
+        
+                  
+          Announcements : -1,
+        
+                  
+          Finance : 1,
+        
+                  
+          DataScienceAnalytics : 2,
+        
+                  
+          Managementconsulting : 3,
+        
+                  
+          Trading : 4,
+        
+                  
+          ProductManagement : 5,
+        
+                
+      };
+      
+     getPosts(dict[key])
+     
+  }
+   
+  if(window.location.hash) {
+      
+      var hash = window.location.hash.substring(1); 
+      if(hash=="myPosts"){
+          myPosts();
+       }else{
+         getCatId(hash);
+       }
+  } else {
+           getPosts('-1');
+           getWorkshops();
+  }
+  
+  
+</script>
+
+
+
+        </div>
+        <!-- End Main Content Wrapper Area -->
+        
+        <!-- Start Copyright Area -->
+       
+        <!-- End Copyright Area -->
+
+        <!-- Start Go Top Area -->
+        <div class="go-top">
+            <i class="ri-arrow-up-line"></i>
+        </div>
+        <!-- End Go Top Area -->
+        
+<div class="modal" id="showPost" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog postDialog">
+    <div class="modal-content" style="height:30rem !important">
+
+      <div class="modal-header" style="display:flex;">
+        <h4 class="modal-title" id="myModalLabel">Create something!</h4>
+            <i  class="fa-solid fa-xmark close"></i>
+      </div>
+      <div class="modal-body">
+    <form enctype="multipart/form-data" id="postForm" accept-charset="UTF-8" >
+              
+       <div class="post-header d-flex  align-items-center">
+                                    <div class="image">
+                                        <img style="width:2.7rem;"  src='https://jobaajlearnings.com/data/pro/1680779117pro-1.png' onerror=this.onerror=null;this.src='assets/images/avatar.png' class='rounded-circle user-profile'>
+                                    </div>
+                                    <div class="info ms-3">
+                                        <span class="name post-name">Jobaaj Learnings</span>
+                                        <select name="post-cat" class="post-cat">
+                                          <option value=-2>All</option><option value=-1>Announcements</option><option value=2>Data Science & Analytics</option><option value=1>Finance</option><option value=4>Trading</option><option value=3>Management consulting</option><option value=5>Product Management</option>                                        </select>
+                                    </div>
+                                   
+            </div>
+                  <br>  
+        <textarea class="form-control post-editor" style="    height: 6.5rem;padding: 2px;white-space: pre-wrap;border:none;font-size: 1.2rem;" id="postEditor" name="post-editor" placeholder="What's on your mind, Jobaaj?"></textarea>
+        <textarea class="form-control post-editor2" style="white-space: pre-wrap;display:none" name="post-editor2"></textarea>
+     
+       <div class="img-choosen" style="">
+            <i  class="fa-solid fa-xmark closeImg"></i>
+        <div class="img-selected">
+            <div id="img-preview"></div>
+        </div>
+       </div>
+         <input type="hidden" id="postInput" name="addPost" value="0"/>
+         <input type="hidden" id="file_url" name="file_url" value="0"/>
+         <input accept="image/*" style="display:none" multiple type="file" id="thumb_file" name="post-img[]" class="form-control">
+         <input accept="" style="display:none" type="file" id="video_file" name="post-video"/>
+         
+         <video id="my_video" controls crossOrigin="Anonymous">
+                    
+          </video>
+          <canvas style="display:none" style="height:500px;width:400px" id="thecanvas"></canvas>
+         <img style="height:500px;width:400px" id="thumbnail_img" class="" alt="Right click to save" />
+        <input type="file" name="generated_thumb_file" id="input_file_canvas_thumb"/>
+
+         
+         
+        </form>
+        <div class="img-box">
+        <i  class="fa-solid fa-xmark closeImg"></i>
+        <div class="img-upload" onclick="uploadNow()">
+             <i class="fa-regular fa-images" style="font-size: 2.5rem;"></i>
+            <span style="margin-top:.5rem"> Add Photos / Gifs</span>
+        </div>
+        </div>
+      </div>
+      
+      <div class="modal-footer">
+          
+            <div class="post-strip">
+            <p style="font-weight:600;flex:1">Add to your post</p>
+            
+            <div class="post-elements">
+                        
+                                                <i onclick="chooseVideo()" class="fa-solid fa-video-camera"></i>
+                                                
+                        
+                        <i onclick="chooseImg()" class="fa-regular fa-image"></i>     
+                        <i onclick="chooseImg()" class="fa-solid fa-file-image"></i>
+                        <i onclick="chooseImg()" class="fa-solid fa-award"></i> 
+                
+            </div>
+        </div>
+        
+        
+      <button style="width: 100%;" onclick="addPost()"  id="postNow" disabled type="button" class="btn btn-primary">Post</button>
+      
+      
+      </div>
+      
+      <div class="post-loader">
+          
+      
+      
+    </div>
+  </div>
+</div>
+</div>
+
+
+<div class="modal" id="showUpdate" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog" style="max-width: 50%;top:8%">
+    <div class="modal-content" >
+      <div class="modal-header" style="display:flex;padding: 0.5rem 1rem;">
+        <h4 class="modal-title postHead" style="    margin: 0 auto;" id="myModalLabel"></h4>
+       <button type="button" class="btn close2" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+
+      </div>
+      <div class="modal-body">
+            <div class="placeholder2" style="background:transparent">
+       
+            <div class="card" style="padding:20px;">
+              <div class="boxes" style="display:flex;height:15rem">
+                <div class="shine" style="border-radius: 10px;min-width: 69px;
+                        height: 61px;
+                        margin-right: 27px"></div>
+                <div>
+                  <lines class="shine" style="width:51%;height:12px;"></lines>
+                  <lines class="shine" style="height:11px;width:224px;margin-top:15px;"></lines>
+                </div>
+                
+              </div>
+              
+              
+              <div style="display:flex;justify-content: space-around;margin-top: 10px;">
+                <lines class="shine" style="height:10px;width:100px;"></lines>
+                <lines class="shine" style="height:10px;width:100px;margin-left:10px;"></lines>
+                <lines class="shine" style="height:10px;width:100px;margin-left:10px;"></lines>
+              </div>
+
+            </div>
+            <br>
+        
+        
+        </div>
+            <div class="single-post news-feed-area">
+                
+            </div>
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+<div class="modal" id="showLogin" tabindex="-1" role="dialog"  aria-labelledby="myModalLabel" aria-hidden="true">
+  
+  <div class="modal-dialog loginPopup" >
+    <div class="modal-content">
+
+      <div class="modal-header" style="display:flex;">
+        <h4 class="modal-title" id="myModalLabel">Login</h4>
+            <i  class="fa-solid fa-xmark closeLogin"></i>
+      </div>
+      <div class="modal-body">
+          <form id="loginForm" style="padding:1rem">
+              
+                  <div class="form-outline mb-4">
+                    <input placeholder = "Email " type="email" id="email-login" class="form-control" />
+                  </div>
+                
+                  <!-- Password input -->
+                  <div class="form-outline">
+                    <input placeholder="Password"   type="password" id="pass-login" class="form-control" />
+                  </div>
+                  <span style='color: #ea584d;font-size: .9rem;' class="error-login"></span>
+                  <!-- Register buttons -->
+                  <div class="text-center" style="margin-top:.5rem">
+                    <p>Not a member? <a href="http://jobaajlearnings.com/signup">Register</a></p>
+                    
+                  </div>
+          </form>
+        
+      </div>
+        
+      <button style="width: 100%;" onclick="loginProcess()"  id="LoginNow" type="button" class="btn btn-primary">Login</button>
+      
+      
+      </div>
+      
+      <div class="post-loader">
+          
+      
+      
+    </div>
+  </div>
+</div>
+
+<div class="modal" id="showCategory" tabindex="-1" role="dialog"  aria-labelledby="myModalLabel" aria-hidden="true">
+  
+  <div class="modal-dialog catPopup" >
+    <div class="modal-content">
+
+      <div class="modal-header" style="display:flex;">
+        <h4 class="modal-title" id="myModalLabel">Update Category<br>
+                <span style="font-size:.7rem;">Choose from the below categories to know what is happening <br/>in the respective fields.</span></h4>
+
+            <i  class="fa-solid fa-xmark closeCat"></i>
+      </div>
+      <div class="modal-body">
+          <form id="showCat" style="padding:0 1rem">
+              
+                   <ul style="padding-left:0px !important;" class="menu_sidebar metisMenu" >
+                                                   <li class="nav-item">
+                               <label>
+                            <input name="cat" value="2" type="radio"/>
+                                <span class="icon"><img src="https://community.jobaajlearnings.com/assets/cat/data.png"/></span>
+                                <span class="menu-title">Data Science & Analytics</span>
+                                </label>
+                        </li>
+                                                   <li class="nav-item">
+                               <label>
+                            <input name="cat" value="1" type="radio"/>
+                                <span class="icon"><img src="https://community.jobaajlearnings.com/assets/cat/finance.png"/></span>
+                                <span class="menu-title">Finance</span>
+                                </label>
+                        </li>
+                                                   <li class="nav-item">
+                               <label>
+                            <input name="cat" value="4" type="radio"/>
+                                <span class="icon"><img src="https://community.jobaajlearnings.com/assets/cat/trading.png"/></span>
+                                <span class="menu-title">Trading</span>
+                                </label>
+                        </li>
+                                                   <li class="nav-item">
+                               <label>
+                            <input name="cat" value="3" type="radio"/>
+                                <span class="icon"><img src="https://community.jobaajlearnings.com/assets/cat/manage.png"/></span>
+                                <span class="menu-title">Management consulting</span>
+                                </label>
+                        </li>
+                                                   <li class="nav-item">
+                               <label>
+                            <input name="cat" value="5" type="radio"/>
+                                <span class="icon"><img src="https://community.jobaajlearnings.com/assets/cat/trading.png"/></span>
+                                <span class="menu-title">Product Management</span>
+                                </label>
+                        </li>
+                                                
+                    </ul>
+                    
+                    
+          </form>
+        
+      </div>
+        
+      <button style="width: 100%;" onclick="updateCategory()"  id="updateNow" type="button" class="btn btn-primary">Update</button>
+      
+      
+      </div>
+      
+      <div class="post-loader">
+          
+      
+      
+    </div>
+  </div>
+</div>
+
+
+<div class="modal" style="padding: 1rem;z-index:1" id="showShare" tabindex="-1" role="dialog"  aria-labelledby="myModalLabel" aria-hidden="true">
+  
+  <div class="modal-dialog modal-dialog-centered shareDialog"  role="document">
+      <div class="modal-content border-0 shadow" style="border-radius:1.5rem;">
+
+  <i style="    text-align: right;"  class="fa-solid fa-xmark closeShare"></i>
+  
+        <div class="toast-container position-fixed bottom-0 start-0 p-3">
+          <div class="toast fade" id="myCourses_url_copied" role="alert" aria-live="assertive" aria-atomic="true" data-bs-autohide="false">
+            <div class="toast-header bg-secondary">
+              <i class="bx bx-time fs-lg me-2"></i>
+              
+              <button class="btn-close ms-2 mb-1" type="button" data-bs-dismiss="toast" aria-label="Close"></button>
+            </div>
+          </div>
+        </div>
+        <div class="card-body pt-3">
+         
+          <h6 style="margin-bottom:.8rem">Share via</h6>
+           
+          <div class="d-flex justify-content-around gap-3 share  mb-4">
+
+            <span class="text-center">
+              <a target="_blank" id="shareMyCoursesWhatsapp" class="btn btn-icon rounded-circle" style="background:#25D366;" href="whatsapp://send?text=https://www.jobaajlearnings.com/join-referral/jl-financialmodellingvaluations-c_5-4822">
+                <i class="fa-brands fa-whatsapp"></i>
+              </a>
+              <span class="fw-bold" style="font-size:14px">Whatsapp</span>
+            </span>
+            <span class="text-center">
+              <a target="_blank" id="shareMyCoursesmail" class="btn btn-icon rounded-circle" style="background:#f44336;" href="mailto:?subject=Financial Modelling &amp; Valuations by Jobaaj Learnings&amp;body=Dear Iqbal Shah,%0D%0A%0D%0AUse this link to enroll yourself into Financial Modelling &amp; Valuations by Jobaaj Learnings!%0D%0A%0D%0A%0D%0Ahttps://www.jobaajlearnings.com/join-referral/jl-financialmodellingvaluations-c_5-4822%0D%0A%0D%0AFeel free to reach out to us if you're facing any issues.%0D%0A%0D%0ARegards,%0D%0ATeam Jobaaj Learnings">
+                <i class="fa-regular fa-envelope"></i>
+              </a>
+              <span class="fw-bold" style="font-size:14px">Gmail</span>
+            </span>
+            <span class="text-center">
+              <a target="_blank" id="shareMyCoursesFacebook" class="btn btn-icon rounded-circle" style="background:#3b5998;" href="http://www.facebook.com/sharer.php?u=https://www.jobaajlearnings.com/join-referral/jl-financialmodellingvaluations-c_5-4822">
+               <i class="fa-brands fa-facebook-f"></i>
+              </a>
+              <span class="fw-bold" style="font-size:14px">Facebook</span>
+            </span>
+            <!-- <span class="text-center">
+              <a href="" target="_blank" id="shareMyCoursesTelegram" class="btn btn-icon rounded-circle" style="background:#0088cc;">
+                <i class='bx bxl-telegram'></i>
+              </a>
+              <span class="fw-bold" style="font-size:14px">Telegram</span>
+            </span> -->
+            <span class="text-center">
+              <a target="_blank" id="shareMyCoursesLinkedin" class="btn btn-icon rounded-circle" style="background:#0a66c2;" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.jobaajlearnings.com/join-referral/jl-financialmodellingvaluations-c_5-4822">
+               <i class="fa-brands fa-linkedin-in"></i>
+              </a>
+              <span class="fw-bold" style="font-size:14px">Linkedin</span>
+            </span>
+
+          </div>
+          <div class="card p-1 share" style="flex-direction: row;align-items: center;">
+            <input type="text" style="height:1rem" readonly class="w-100 p-2 border-0 bg-transparent myPostUrl"/>
+            <button style="font-size:.8rem" class="btn btn-primary rounded-pill" onclick="copyLink(post_global)">Copy</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+</div>
+
+
+
+</div>
+
+
+    <!-- Links of JS files -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="assets/js/jquery-ui.min.js"></script>
+    <script src="assets/js/simplebar.min.js"></script>
+    <script src="assets/js/metismenu.min.js"></script>
+    <script src="assets/js/owl.carousel.min.js"></script>
+    <script src="assets/js/wow.min.js"></script>
+    <script src="assets/js/main.js"></script>
+    
+    </body>
+    
+<script>
+ 
+    var input = document.getElementById("pass-login");
+
+    input.addEventListener("keypress", function(event) {
+      if (event.key === "Enter") {
+        event.preventDefault();
+        loginProcess();
+      }
+    });
+    
+    
+    
+    $(".close").click(function(){
+        $("#showPost").hide();
+    })
+    
+     $(".close2").click(function(){
+        $("#showUpdate").hide();
+    })
+    
+     $(".closeLogin").click(function(){
+        $("#showLogin").hide();
+    })
+    
+     $(".closeCat").click(function(){
+        $("#showCategory").hide();
+    })
+    
+     $(".closeShare").click(function(){
+        $("#showShare").hide();
+    })
+    
+     $(".closeImg").click(function(){
+         
+       $("#file_url").val('');
+       $(".modal-content").css('height',"405px")
+       $(".emojionearea-editor").keyup();
+       $(".img-box").hide();
+       $(".img-choosen").hide();
+       $("#img-preview").html('')
+       
+       $("#thumb_file").val('');
+               
+    })
+    
+    
+    
+    $(function () {
+        
+    $('.emojionearea-editor').keyup(function() {
+        
+        let post = $('.post-editor')
+        
+        let text = post.val();
+         
+        btnSubmit  = $("#postNow");
+        
+          if ($(this).val().trim() != "")
+             btnSubmit.removeAttr("disabled");
+          else 
+             btnSubmit.attr("disabled", "disabled");
+        
+        if(text.length > 85)
+            $(this).css('font-size',".9rem");
+        else
+            $(this).css('font-size',"1.2rem");
+       
+        });
+    });
+    
+    
+    
+document.getElementById("video_file")
+.onchange = function(event) {
+    
+  let file = event.target.files[0];
+  let blobURL = URL.createObjectURL(file);
+  document.getElementById("my_video").src = blobURL;
+  
+  getThumb();
+}
+
+
+function getThumb(){
+    
+    const video = document.getElementById('my_video');
+    const thecanvas = document.getElementById('thecanvas');
+    const img = document.getElementById('thumbnail_img');
+    
+    video.addEventListener('loadedmetadata', function(){
+      setTimeout(() => draw(video, thecanvas, img), 500)
+    }, false);
+    
+    video.currentTime = 2;
+    video.load();
+    
+    function draw( video, thecanvas, img ){
+    	thecanvas
+      	.getContext('2d')
+        .drawImage( video, 0, 0, thecanvas.width, thecanvas.height);
+        
+      img.setAttribute('src', thecanvas.toDataURL());
+    }
+    
+    
+    const img2 = document.getElementById('thumbnail_img')
+
+    fetch(img2.src)
+    .then(res => res.blob())
+    .then(blob => {
+      const file = new File([blob], 'thumb.png', blob)
+      
+      const dataTransfer = new DataTransfer();
+            dataTransfer.items.add(file);
+             document.getElementById('input_file_canvas_thumb').files = dataTransfer.files;
+    });
+    
+
+
+ }
+
+    
+     $("#thumb_file").change(function () {
+         
+     const total_file = document.getElementById("thumb_file").files.length;
+
+             for(var i=0;i<total_file;i++)
+             {
+              $('#img-preview').append("<div style='width:50%'><img class='pimg' src='"+URL.createObjectURL(event.target.files[i])+"'></div>");
+             }
+             
+            $(".img-choosen").show();
+            $("#postNow").removeAttr("disabled");
+    });
+    
+  function chooseImg(){
+      uploadNow();
+  }
+  
+  function chooseVideo(){
+     $("#video_file").click();
+  }
+  
+  function uploadNow(){
+    
+       $(".emojionearea-editor").css({'font-size':'.9rem','min-height':'2rem'});
+       $("#thumb_file").click();
+  }
+  
+  function loginNow(){
+         $("#showLogin").show();
+         $("#email-login").focus();
+  }
+  
+   function changeCat(){
+         $("#showCategory").show();
+  }
+  
+  function likePost(postId){
+        
+             
+        likeElem = $(".heart"+postId);
+        
+        likeCount = $(".like"+postId);
+        
+        if(likeElem.hasClass('fa-regular')) {
+            
+            if(likeCount.html().trim() != "")
+            likeCount.html(parseInt(likeCount.html()) + 1);
+            else
+            likeCount.html('1');
+            
+            likeElem.removeClass("fa-regular");
+            likeElem.addClass("fa-solid");
+            
+             $.ajax({
+                  url: "https://community.jobaajlearnings.com/fun/addPost",
+                  type: "POST",
+                  data: {
+                    AddLike: true,
+                    post: postId
+                  },
+                  cache: false,
+                  success: function(result) {
+                  }
+                }).fail(function(jqXHR, textStatus, error) {  });
+                
+                
+        }else{
+           
+            likeElem.addClass("fa-regular");
+            likeElem.removeClass("fa-solid");
+            
+            if(likeCount.html().trim() != '1')
+            likeCount.html(parseInt(likeCount.html()) - 1);
+            else
+            likeCount.html('');
+
+            
+            $.ajax({
+                  url: "https://community.jobaajlearnings.com/fun/addPost",
+                  type: "POST",
+                  data: {
+                    DelLike: true,
+                    post: postId
+                  },
+                  cache: false,
+                  success: function(result) {
+                  }
+                }).fail(function(jqXHR, textStatus, error) {  });
+        }
+    }
+    
+     $(document).ready(function(){
+            $("#postEditor").emojioneArea({
+                pickerPosition:'bottom'
+            });
+     });
+     
+    function setCookie(name,value,days) {
+        var expires = "";
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days*24*60*60*1000));
+            expires = "; expires=" + date.toUTCString();
+        }
+        document.cookie = name + "=" + (value || "")  + expires + "; path=/";
+    }
+   
+    function getCookie(name) {
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(';');
+        for(var i=0;i < ca.length;i++) {
+            var c = ca[i];
+            while (c.charAt(0)==' ') c = c.substring(1,c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+        }
+        return null;
+    }
+    
+
+   function checkCookie(poll) {
+     
+      let poll_cookie = getCookie("463d773cad30c5b74940d5e586e88a75");
+      if (poll != "" && poll_cookie == poll) {
+         return 0;
+      } else {
+          setCookie("463d773cad30c5b74940d5e586e88a75",poll,100);
+          return 1;
+      }
+      
+    }
+    
+   function optionSelected(poll,e){
+                
+        $(".score"+poll).fadeIn();
+        var count_index = e.target.value;
+        
+        poll_key = poll+','+count_index;
+        
+        if(checkCookie(poll_key) == 0)
+         return false;
+        
+        $.ajax({
+          url: "https://community.jobaajlearnings.com/fun/addPost",
+          type: "POST",
+          data: {
+            updatePoll: poll,
+            count_key:count_index
+          },
+          cache: false,
+          success: function(result) {
+            
+          }
+        }).fail(function(jqXHR, textStatus, error) {
+         // alert(error);
+    
+        });
+        
+    }
+    
+   function getPost(postId){
+       
+     $("#showUpdate").show();
+       
+     $(".placeholder2").show();
+    
+        $.ajax({
+          url: "https://community.jobaajlearnings.com/fun/getPost",
+          type: "POST",
+          data: {
+            getPost: postId,
+          },
+          cache: false,
+          dataType: 'JSON',
+          success: function(result) {
+          
+            $(".single-post").html(result.post);
+            $(".postHead").html(result.title);
+            $(".placeholder2").hide();
+    
+          }
+        }).fail(function(jqXHR, textStatus, error) {
+    
+        });
+    }
+    
+   function loginProcess(){
+        
+         email = $("#email-login")
+         pass = $("#pass-login")
+         msg = $(".error-login")
+         
+          msg.hide();
+         
+         if(email.val().trim() == '') {
+           email.focus();
+           return
+         }  
+         
+         if(pass.val().trim() == ''){
+           pass.focus();
+           return
+         }
+            
+         $.ajax({
+                  url: "https://community.jobaajlearnings.com/fun/User",
+                  type: "POST",
+                  data: {
+                    login: email.val().trim(),
+                    password: pass.val().trim()
+                  },
+                  cache: false,
+                  success: function(result) {
+                      if(result == 1){
+                          location.reload();
+                      }else{
+                          msg.show();
+                          msg.html('Email or password is invalid!')
+                      }
+                      
+                  }
+                }).fail(function(jqXHR, textStatus, error) {  });
+    }
+
+   var post_global = 0;
+  
+  
+  function showShare(url){
+      
+     let share_url = url;
+     post_global = share_url;
+      
+        $(".myPostUrl").val(share_url);
+        
+        let whatsapp = 'whatsapp://send?text=' + share_url;
+        let facebook = 'http://www.facebook.com/sharer.php?u=' + share_url;
+        let linkedin = 'https://www.linkedin.com/shareArticle?mini=true&url=' + share_url;
+        let gmail = `mailto:?subject=Post by Community&body=${share_url}`;
+
+        $("#shareMyCoursesWhatsapp").removeAttr('href').attr('href', whatsapp);
+        $("#shareMyCoursesFacebook").removeAttr('href').attr('href', facebook);
+        $("#shareMyCoursesLinkedin").removeAttr('href').attr('href', linkedin);
+        $("#shareMyCoursesmail").removeAttr('href').attr('href', gmail);
+      
+      
+        $("#showShare").show();
+        
+  }
+    
+    
+  function copyLink(url){
+       // url = 'https://community.jobaajlearnings.com/post/'+id;
+        navigator.clipboard.writeText(url);
+        showToast('Link Copied to Clipboard!',3000);
+  }
+    
+    
+function enterComment(e){
+   
+    if(e.keyCode == 13) {
+          writeComment(e);
+     
+    }
+}
+
+function postComment(comment_box_id){
+    
+    $(`#comment${comment_box_id}`).trigger($.Event('keydown', { keyCode: 13 }));
+    
+}
+
+function writeComment(e){
+     
+      cmt = e.target.value;
+      
+      if(cmt.trim()=='')
+      return;
+      
+      postId = e.target.dataset.post
+      
+      cmtName = $(".post-name").html();
+      cmtSrc = $(".user-profile").attr('src');
+      
+      e.target.value = ''
+      
+        $.ajax({
+          url: "https://community.jobaajlearnings.com/fun/addPost",
+          type: "POST",
+          data: {
+            AddComment: cmt,
+            post: postId,
+          },
+          cache: false,
+          success: function(result) {
+            if(result == 1){
+                  
+                  $(".clist"+postId).append(`<div class="comment-list">
+                            <div class="comment-image">
+                                <a href="/profile/'.$user_id.'"><img src="${cmtSrc}"" class="rounded-circle"/></a>
+                            </div>
+                            <div class="comment-info">
+                                <h3>
+                                    <a href="">${cmtName}</a>
+                                </h3>
+                                <p>${cmt}</p>
+                                <ul class="comment-react">
+                                    <li><span>Just Now</span></li>
+                                </ul>
+                            </div>
+                        </div>`)
+            }
+
+          }
+        }).fail(function(jqXHR, textStatus, error) {
+         // alert(error);
+        });
+    }
+    var skill = '1';
+    if(skill!='0' && skill != ''){
+        $(`input[name=cat][value=${skill}]`).prop('checked', true);
+    }else{
+        if(skill!='')
+        changeCat();
+    }
+    
+    
+    
+</script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/emojionearea/3.4.2/emojionearea.min.js" integrity="sha512-hkvXFLlESjeYENO4CNi69z3A1puvONQV5Uh+G4TUDayZxSLyic5Kba9hhuiNLbHqdnKNMk2PxXKm0v7KDnWkYA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+
+<style>
+#snackbar {
+  visibility: hidden;
+  min-width: 200px;
+  margin-left: -125px;
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  border-radius: 5px;
+  padding: 16px;
+  position: fixed;
+  z-index: 111111;
+  left: 50%;
+  bottom: 30px;
+  font-size: .8rem;
+}
+
+#snackbar.show {
+  visibility: visible;
+  -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+  animation: fadein 0.5s, fadeout 0.5s 2.5s;
+}
+
+@-webkit-keyframes fadein {
+  from {bottom: 0; opacity: 0;} 
+  to {bottom: 30px; opacity: 1;}
+}
+
+@keyframes fadein {
+  from {bottom: 0; opacity: 0;}
+  to {bottom: 30px; opacity: 1;}
+}
+
+@-webkit-keyframes fadeout {
+  from {bottom: 30px; opacity: 1;} 
+  to {bottom: 0; opacity: 0;}
+}
+
+@keyframes fadeout {
+  from {bottom: 30px; opacity: 1;}
+  to {bottom: 0; opacity: 0;}
+}
+</style>
+<div id="snackbar"></div>
+<script>
+function showToast(msg,time) {
+  var x = document.getElementById("snackbar");
+  x.innerHTML = msg;
+  x.className = "show";
+  setTimeout(function(){ x.className = x.className.replace("show", ""); }, time);
+}
+</script></html>

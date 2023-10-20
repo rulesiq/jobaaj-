@@ -1,0 +1,48 @@
+RewriteEngine On
+
+Header always set Access-Control-Allow-Origin "*"
+
+
+Options -Indexes
+
+
+RewriteEngine On
+RewriteBase /
+
+ErrorDocument 404 https://community.jobaajlearnings.com/404
+RewriteBase /
+RewriteCond %{REQUEST_URI} ^/404/$
+RewriteRule ^(.*)$ <YourRelativePathToPHPFile>/404.php [L]
+
+
+RewriteRule ^post/([^/\.]+)/([^/\.]+) post.php?post=$1&admin=$2
+
+RewriteRule ^post/([^/\.]+) post.php?post=$1
+RewriteRule ^profile/([^/\.]+) profile.php?user=$1
+
+
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} (.+)/$
+RewriteRule ^ %1 [L,R=301]
+
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTPS} off
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php
+
+RewriteEngine On
+RewriteBase /
+RewriteRule ^sitemap.xml/?$ sitemap.php
+RewriteRule ^refer-now/([^/\.]+) refer-now.php?refer=$1
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php80” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php80 .php .php8 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit

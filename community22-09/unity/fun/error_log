@@ -1,0 +1,37 @@
+[07-Jul-2022 11:50:18 Asia/Kolkata] PHP Notice:  Undefined index: four in /home/veshmoda/public_html/jobaajlearnings.com/admin/fun/programFun.php on line 46
+[07-Jul-2022 11:50:18 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/veshmoda/public_html/jobaajlearnings.com/admin/fun/programFun.php on line 46
+[07-Jul-2022 11:54:28 Asia/Kolkata] PHP Notice:  Undefined index: four in /home/veshmoda/public_html/jobaajlearnings.com/admin/fun/programFun.php on line 46
+[07-Jul-2022 11:54:28 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/veshmoda/public_html/jobaajlearnings.com/admin/fun/programFun.php on line 46
+[07-Jul-2022 13:17:15 Asia/Kolkata] PHP Notice:  Undefined index: editor2 in /home/veshmoda/public_html/jobaajlearnings.com/admin/fun/programFun.php on line 205
+[07-Jul-2022 13:17:15 Asia/Kolkata] PHP Notice:  Undefined index: editor3 in /home/veshmoda/public_html/jobaajlearnings.com/admin/fun/programFun.php on line 209
+[07-Jul-2022 13:17:15 Asia/Kolkata] PHP Notice:  Undefined index: editor4 in /home/veshmoda/public_html/jobaajlearnings.com/admin/fun/programFun.php on line 213
+[07-Jul-2022 13:26:20 Asia/Kolkata] PHP Notice:  Undefined index: editor2 in /home/veshmoda/public_html/jobaajlearnings.com/admin/fun/programFun.php on line 205
+[07-Jul-2022 13:26:20 Asia/Kolkata] PHP Notice:  Undefined index: editor3 in /home/veshmoda/public_html/jobaajlearnings.com/admin/fun/programFun.php on line 209
+[07-Jul-2022 13:26:20 Asia/Kolkata] PHP Notice:  Undefined index: editor4 in /home/veshmoda/public_html/jobaajlearnings.com/admin/fun/programFun.php on line 213
+[07-Jul-2022 13:29:12 Asia/Kolkata] PHP Notice:  Undefined index: editor2 in /home/veshmoda/public_html/jobaajlearnings.com/admin/fun/programFun.php on line 204
+[07-Jul-2022 13:29:12 Asia/Kolkata] PHP Notice:  Undefined index: editor3 in /home/veshmoda/public_html/jobaajlearnings.com/admin/fun/programFun.php on line 208
+[07-Jul-2022 13:29:12 Asia/Kolkata] PHP Notice:  Undefined index: editor4 in /home/veshmoda/public_html/jobaajlearnings.com/admin/fun/programFun.php on line 212
+[07-Jul-2022 13:30:33 Asia/Kolkata] PHP Notice:  Undefined index: editor2 in /home/veshmoda/public_html/jobaajlearnings.com/admin/fun/programFun.php on line 204
+[07-Jul-2022 13:30:33 Asia/Kolkata] PHP Notice:  Undefined index: editor3 in /home/veshmoda/public_html/jobaajlearnings.com/admin/fun/programFun.php on line 208
+[07-Jul-2022 13:30:33 Asia/Kolkata] PHP Notice:  Undefined index: editor4 in /home/veshmoda/public_html/jobaajlearnings.com/admin/fun/programFun.php on line 212
+[07-Jul-2022 13:38:48 Asia/Kolkata] PHP Notice:  Undefined index: editor2 in /home/veshmoda/public_html/jobaajlearnings.com/admin/fun/programFun.php on line 216
+[07-Jul-2022 13:38:48 Asia/Kolkata] PHP Notice:  Undefined index: editor3 in /home/veshmoda/public_html/jobaajlearnings.com/admin/fun/programFun.php on line 220
+[07-Jul-2022 13:38:48 Asia/Kolkata] PHP Notice:  Undefined index: editor4 in /home/veshmoda/public_html/jobaajlearnings.com/admin/fun/programFun.php on line 224
+[07-Jul-2022 14:02:48 Asia/Kolkata] PHP Notice:  Undefined index: editor2 in /home/veshmoda/public_html/jobaajlearnings.com/admin/fun/programFun.php on line 216
+[07-Jul-2022 14:02:48 Asia/Kolkata] PHP Notice:  Undefined index: editor3 in /home/veshmoda/public_html/jobaajlearnings.com/admin/fun/programFun.php on line 220
+[07-Jul-2022 14:02:48 Asia/Kolkata] PHP Notice:  Undefined index: editor4 in /home/veshmoda/public_html/jobaajlearnings.com/admin/fun/programFun.php on line 224
+[07-Jul-2022 14:03:39 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/veshmoda/public_html/jobaajlearnings.com/admin/fun/programFun.php on line 289
+[07-Jul-2022 14:03:39 Asia/Kolkata] PHP Notice:  Undefined offset: 1 in /home/veshmoda/public_html/jobaajlearnings.com/admin/fun/programFun.php on line 282
+[07-Jul-2022 14:03:39 Asia/Kolkata] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/veshmoda/public_html/jobaajlearnings.com/admin/fun/programFun.php on line 282
+[07-Jul-2022 14:03:39 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/veshmoda/public_html/jobaajlearnings.com/admin/fun/programFun.php on line 289
+[07-Jul-2022 15:45:17 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/veshmoda/public_html/jobaajlearnings.com/admin/fun/programFun.php on line 288
+[07-Jul-2022 17:25:48 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/veshmoda/public_html/jobaajlearnings.com/admin/fun/programFun.php on line 288
+[07-Jul-2022 17:33:55 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/veshmoda/public_html/jobaajlearnings.com/admin/fun/programFun.php on line 288
+[08-Jul-2022 16:10:14 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/veshmoda/public_html/jobaajlearnings.com/admin/fun/programFun.php on line 288
+[12-Jul-2022 14:40:29 Asia/Kolkata] PHP Notice:  Undefined offset: 5 in /home/veshmoda/public_html/jobaajlearnings.com/admin/fun/programFun.php on line 120
+[12-Jul-2022 14:40:29 Asia/Kolkata] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/veshmoda/public_html/jobaajlearnings.com/admin/fun/programFun.php on line 120
+[12-Jul-2022 15:25:24 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/veshmoda/public_html/jobaajlearnings.com/admin/fun/programFun.php on line 288
+[12-Jul-2022 15:47:27 Asia/Kolkata] PHP Warning:  Illegal string offset 'title' in /home/veshmoda/public_html/jobaajlearnings.com/admin/fun/programFun.php on line 165
+[12-Jul-2022 15:47:27 Asia/Kolkata] PHP Warning:  Illegal string offset 'text' in /home/veshmoda/public_html/jobaajlearnings.com/admin/fun/programFun.php on line 166
+[12-Jul-2022 15:47:27 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/veshmoda/public_html/jobaajlearnings.com/admin/fun/programFun.php on line 288
+[12-Jul-2022 16:49:58 Asia/Kolkata] PHP Notice:  Array to string conversion in /home/veshmoda/public_html/jobaajlearnings.com/admin/fun/programFun.php on line 288
