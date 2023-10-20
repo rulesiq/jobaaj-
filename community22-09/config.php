@@ -25,15 +25,17 @@ if(isset($_GET['learner_id']) && !isset($_SESSION['learner_id'])){
 
   $_SESSION['learner_id'] = base64_decode($_GET['learner_id']);
   
-  if(!isset($_GET['myPost']))
+  if(!isset($_GET['myPost']) && !isset($_GET['postNow']) )
   echo "<script>location.href='https://community.jobaajlearnings.com/';</script>";
-  
+ 
 
 } else{
     
     if(isset($_SESSION['learner_id']) && isset($_GET['learner_id'])){
-          if(!isset($_GET['myPost']))
+           
+           if(!isset($_GET['myPost']) && !isset($_GET['postNow']) )
            echo "<script>location.href='https://community.jobaajlearnings.com/';</script>";
+  
     }else{
         
         // if(!isset($_GET['learner_id']) && !isset($_SESSION['learner_id'])){

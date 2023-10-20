@@ -1,6 +1,6 @@
+
  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/emojionearea/3.4.2/emojionearea.min.css" />
  <link href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.1/css/fontawesome.min.css" rel="stylesheet">
-
 <?php
     
     require('pin/head.php');
@@ -819,7 +819,6 @@
   <div class="go-top">
       <i class="ri-arrow-up-line"></i>
   </div>
-  <!-- End Go Top Area -->
 
   <div class="modal" id="showPost" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
       <div class="modal-dialog postDialog">
@@ -1340,6 +1339,10 @@
           }
           return null;
       }
+      
+      <?php if(isset($_GET['postNow'])) {  ?>
+           openPost();
+       <?php } ?>
 
       function checkCookie(poll) {
 
@@ -1609,8 +1612,6 @@
           $(`.post${id} .post-share a`).click();
       }
 
-     
-      
       var skill = '<?php echo $user['com_category']; ?>';
       if (skill != '0' && skill != '') {
           $(`input[name=cat][value=${skill}]`).prop('checked', true);
